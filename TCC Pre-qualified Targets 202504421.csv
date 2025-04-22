@@ -1,343 +1,341 @@
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,Sales($MM),,,,Inventory ($MM),,,
 Ticker,Name,S&P LT LC,GICS_SECTOR_NAME,GICS_INDUSTRY_NAME,CNTRY_OF_RISK,CUR_MKT_CAP,CURRENT_TRR_YTD,EV_TO_T12M_EBITDA,VOLATILITY_360D,FY2021,FY2022,FY2023,FY2024,FY2021,FY2022,FY2023,FY2024
-SJM US Equity,JM SMUCKER CO/THE,BBB,Consumer Staples,Food Products,US," 12,391.15 ",6.9,21.8,24.48," 8,002.7 "," 7,998.9 "," 8,529.2 "," 8,178.7 ",959.9,1089.3,1009.8,1038.9
-DKS US Equity,DICK'S SPORTING GOODS INC,BBB,Consumer Discretionary,Specialty Retail,US," 14,816.42 ",-18.4,11.8,41.55," 9,584.0 "," 12,293.4 "," 12,368.2 "," 12,984.4 ",1953.568,2297.609,2830.917,2848.797
-LDOS US Equity,LEIDOS HOLDINGS INC,BBB,Industrials,Professional Services,US," 17,875.58 ",-2.9,11.3,27.20," 13,737.0 "," 14,396.0 "," 15,438.0 "," 16,662.0 ",274,287,310,315
-FTNT US Equity,FORTINET INC,BBB+,Information Technology,Software,US," 73,921.48 ",1.7,36.1,38.09," 3,342.2 "," 4,417.4 "," 5,304.8 "," 5,955.8 ",175.8,264.6,484.8,315.5
-KDP US Equity,KEURIG DR PEPPER INC,BBB,Consumer Staples,Beverages,US," 48,028.98 ",11.8,17.3,19.28," 12,683.0 "," 14,057.0 "," 14,814.0 "," 15,351.0 ",894,1314,1142,1299
-DG US Equity,DOLLAR GENERAL CORP,BBB,Consumer Staples,Consumer Staples Distribution,US," 20,470.47 ",24.6,7.0,46.98," 33,746.8 "," 34,220.4 "," 37,844.9 "," 38,691.6 ",5247.477,5614.325,6760.733,6994.266
-HCA US Equity,HCA HEALTHCARE INC,BBB-,Health Care,Health Care Providers & Servic,US," 82,480.57 ",11.9,9.1,26.75," 58,752.0 "," 60,233.0 "," 64,968.0 "," 70,603.0 ",1986,2068,2021,1738
-XYL US Equity,XYLEM INC,BBB,Industrials,Machinery,US," 26,870.65 ",-4.5,19.0,23.54," 5,195.0 "," 5,522.0 "," 7,364.0 "," 8,562.0 ",700,799,1018,996
-ZTS US Equity,ZOETIS INC,BBB,Health Care,Pharmaceuticals,US," 66,333.58 ",-8.2,19.9,26.39," 7,776.0 "," 8,080.0 "," 8,544.0 "," 9,256.0 ",1923,2345,2564,2306
-OGS US Equity,ONE GAS INC,A-,Utilities,Gas Utilities,US," 4,643.91 ",12.9,10.3,22.48," 1,808.6 "," 2,578.0 "," 2,372.0 "," 2,083.6 ",234.538,340.078,264.746,252.846
-FTV US Equity,FORTIVE CORP,BBB,Industrials,Machinery,US," 22,268.59 ",-12.7,16.0,24.70," 5,254.7 "," 5,825.7 "," 6,065.3 "," 6,231.8 ",512.7,536.7,536.9,544.8
-BKR US Equity,BAKER HUGHES CO,A,Energy,Energy Equipment & Services,US," 38,534.50 ",-4.7,9.8,32.65," 20,502.0 "," 21,156.0 "," 25,506.0 "," 27,829.0 ",3979,4587,5094,4954
-EVRG US Equity,EVERGY INC,BBB+,Utilities,Electric Utilities,US," 15,707.73 ",12.2,10.6,17.50," 5,586.7 "," 5,859.1 "," 5,508.2 "," 5,847.3 ",566.7,672.9,776.2,867.4
-FOXA US Equity,FOX CORP - CLASS A,BBB,Communication Services,Media,US," 20,949.96 ",-0.8,8.4,24.94," 12,909.0 "," 13,974.0 "," 14,913.0 "," 13,980.0 ",729,791,543,626
-OTIS US Equity,OTIS WORLDWIDE CORP,BBB,Industrials,Machinery,US," 38,977.39 ",6.8,19.8,20.21," 14,298.0 "," 13,685.0 "," 14,209.0 "," 14,261.0 ",622,617,612,557
-VLTO US Equity,VERALTO CORP,BBB,Industrials,Commercial Services & Supplies,US," 22,210.55 ",-12.0,20.9,22.88," 4,700.0 "," 4,870.0 "," 5,021.0 "," 5,193.0 ",#N/A N/A,345,297,288
-LH US Equity,LABCORP HOLDINGS INC,BBB,Health Care,Health Care Providers & Servic,US," 18,166.07 ",-5.0,14.4,22.29," 16,120.9 "," 14,876.8 "," 12,161.6 "," 13,008.9 ",401.4,470.6,474.6,493.2
-ABT US Equity,ABBOTT LABORATORIES,AA-,Health Care,Health Care Equipment & Suppli,US," 227,161.68 ",17.0,20.2,20.04," 43,075.0 "," 43,653.0 "," 40,109.0 "," 41,950.0 ",5157,6173,6570,6194
-AMD US Equity,ADVANCED MICRO DEVICES,A,Information Technology,Semiconductors & Semiconductor,US," 142,155.42 ",-27.6,40.3,52.69," 16,434.0 "," 23,601.0 "," 22,680.0 "," 25,785.0 ",1955,3771,4351,5734
-AVY US Equity,AVERY DENNISON CORP,BBB,Materials,Containers & Packaging,US," 13,491.34 ",-8.3,13.3,20.10," 8,408.3 "," 9,039.3 "," 8,364.3 "," 8,755.7 ",907.2,1009.9,920.7,978.1
-BAX US Equity,BAXTER INTERNATIONAL INC,BBB,Health Care,Health Care Equipment & Suppli,US," 14,818.38 ",-0.4,37.4,30.90," 12,784.0 "," 14,506.0 "," 10,360.0 "," 10,636.0 ",2453,2718,1918,2046
-BMY US Equity,BRISTOL-MYERS SQUIBB CO,A,Health Care,Pharmaceuticals,US," 100,171.39 ",-11.0,72.6,28.49," 46,385.0 "," 46,159.0 "," 45,006.0 "," 48,300.0 ",2095,2339,2662,2557
-BF/B US Equity,BROWN-FORMAN CORP-CLASS B,A-,Consumer Staples,Beverages,US," 15,939.36 ",-10.5,13.1,31.60," 3,461.0 "," 3,933.0 "," 4,228.0 "," 4,178.0 ",1751,1818,2283,2556
-CBT US Equity,CABOT CORP,BBB,Materials,Chemicals,US," 4,247.17 ",-13.8,7.8,32.15," 3,409.0 "," 4,321.0 "," 3,931.0 "," 3,994.0 ",523,664,585,552
-CSL US Equity,CARLISLE COS INC,BBB,Industrials,Building Products,US," 15,596.58 ",-4.0,13.4,29.53," 4,810.3 "," 5,449.4 "," 4,586.9 "," 5,003.6 ",605.1,518,361.7,472.7
-CHD US Equity,CHURCH & DWIGHT CO INC,BBB+,Consumer Staples,Household Products,US," 25,932.51 ",0.9,25.0,18.49," 5,190.1 "," 5,375.6 "," 5,867.9 "," 6,107.1 ",535.4,646.6,613.3,613.3
-CLX US Equity,CLOROX COMPANY,BBB+,Consumer Staples,Household Products,US," 17,219.48 ",-13.3,24.7,21.58," 7,341.0 "," 7,107.0 "," 7,389.0 "," 7,093.0 ",752,755,696,637
-KO US Equity,COCA-COLA CO/THE,A+,Consumer Staples,Beverages,US," 314,160.38 ",18.1,27.2,15.30," 38,655.0 "," 43,004.0 "," 45,754.0 "," 47,061.0 ",3414,4233,4424,4728
-CL US Equity,COLGATE-PALMOLIVE CO,A+,Consumer Staples,Household Products,US," 77,458.56 ",6.2,16.7,18.52," 17,421.0 "," 17,967.0 "," 19,457.0 "," 20,101.0 ",1692,2074,1934,1987
-GLW US Equity,CORNING INC,BBB+,Information Technology,"Electronic Equipment, Instrume",US," 35,573.38 ",-12.1,18.2,31.09," 14,082.0 "," 14,189.0 "," 12,588.0 "," 13,118.0 ",2481,2904,2666,2724
-CMI US Equity,CUMMINS INC,A,Industrials,Machinery,US," 38,817.24 ",-18.8,11.3,28.22," 24,021.0 "," 28,074.0 "," 34,065.0 "," 34,102.0 ",4355,5603,5677,5742
-DHR US Equity,DANAHER CORP,A-,Health Care,Life Sciences Tools & Services,US," 133,667.58 ",-18.5,25.0,27.30," 29,453.0 "," 26,643.0 "," 23,890.0 "," 23,875.0 ",2767,2765,2594,2330
-DOV US Equity,DOVER CORP,BBB+,Industrials,Machinery,US," 22,077.99 ",-13.9,17.5,25.31," 7,907.1 "," 7,844.2 "," 7,684.5 "," 7,745.9 ",1191.095,1366.608,1144.089,1144.838
-EOG US Equity,EOG RESOURCES INC,A-,Energy,"Oil, Gas & Consumable Fuels",US," 60,945.66 ",-8.4,5.5,27.24," 19,139.0 "," 26,109.0 "," 23,161.0 "," 23,692.0 ",584,1058,1275,985
-FDX US Equity,FEDEX CORP,BBB,Industrials,Air Freight & Logistics,US," 49,728.76 ",-25.8,10.2,34.91," 83,959.0 "," 93,512.0 "," 90,155.0 "," 87,693.0 ",587,637,604,614
-GD US Equity,GENERAL DYNAMICS CORP,A,Industrials,Aerospace & Defense,US," 74,094.85 ",5.9,14.1,20.46," 38,469.0 "," 39,407.0 "," 42,272.0 "," 47,716.0 ",5340,6322,8578,9724
-GIS US Equity,GENERAL MILLS INC,BBB,Consumer Staples,Food Products,US," 31,492.51 ",-7.9,11.5,21.70," 18,127.0 "," 18,992.8 "," 20,094.2 "," 19,857.2 ",1820.5,1867.3,2172,1898.2
-GWW US Equity,WW GRAINGER INC,A+,Industrials,Trading Companies & Distributo,US," 48,301.01 ",-4.7,18.6,22.15," 13,022.0 "," 15,228.0 "," 16,478.0 "," 17,168.0 ",1870,2253,2266,2306
-HAL US Equity,HALLIBURTON CO,BBB+,Energy,Energy Equipment & Services,US," 19,420.43 ",-16.6,6.1,34.98," 15,295.0 "," 20,297.0 "," 23,018.0 "," 22,944.0 ",2361,2923,3226,3040
-HRL US Equity,HORMEL FOODS CORP,A-,Consumer Staples,Food Products,US," 16,816.32 ",-0.6,14.9,26.07," 11,386.2 "," 12,458.8 "," 12,110.0 "," 11,920.8 ",1369.198,1716.059,1680.406,1576.299
-ITW US Equity,ILLINOIS TOOL WORKS,A+,Industrials,Machinery,US," 67,720.60 ",-8.4,17.5,19.53," 14,455.0 "," 15,932.0 "," 16,107.0 "," 15,898.0 ",1694,2054,1707,1605
-IP US Equity,INTERNATIONAL PAPER CO,BBB,Materials,Containers & Packaging,US," 24,430.09 ",-13.3,14.8,33.75," 19,363.0 "," 21,161.0 "," 18,916.0 "," 18,619.0 ",1814,1942,1889,1784
-KMB US Equity,KIMBERLY-CLARK CORP,A,Consumer Staples,Household Products,US," 47,363.18 ",9.9,12.6,18.92," 19,440.0 "," 20,175.0 "," 20,431.0 "," 20,058.0 ",2239,2269,1955,1822
-KR US Equity,KROGER CO,BBB,Consumer Staples,Consumer Staples Distribution,US," 47,068.83 ",17.0,8.7,23.38," 132,498.0 "," 137,888.0 "," 148,258.0 "," 150,039.0 ",7063,6783,7560,7105
-LOW US Equity,LOWE'S COS INC,BBB+,Consumer Discretionary,Specialty Retail,US," 122,575.57 ",-10.9,14.7,24.05," 89,597.0 "," 96,250.0 "," 97,059.0 "," 86,377.0 ",16193,17605,18532,16894
-MRK US Equity,MERCK & CO. INC.,A+,Health Care,Pharmaceuticals,US," 196,278.74 ",-20.9,11.3,24.16," 48,704.0 "," 59,283.0 "," 60,115.0 "," 64,168.0 ",5953,5911,6358,6109
-NKE US Equity,NIKE INC -CL B,AA-,Consumer Discretionary,"Textiles, Apparel & Luxury Goo",US," 82,301.23 ",-25.9,20.8,38.91," 44,538.0 "," 46,710.0 "," 51,217.0 "," 51,362.0 ",6854,8420,8454,7519
-OMC US Equity,OMNICOM GROUP,BBB+,Communication Services,Media,US," 14,289.81 ",-14.2,8.3,26.36," 14,289.4 "," 14,289.1 "," 14,692.2 "," 15,689.1 ",#N/A N/A,#N/A N/A,#N/A N/A,1622.2
-PEP US Equity,PEPSICO INC,A+,Consumer Staples,Beverages,US," 195,878.14 ",-5.2,15.5,18.70," 79,474.0 "," 86,392.0 "," 91,471.0 "," 91,854.0 ",4347,5222,5334,5306
-PVH US Equity,PVH CORP,BBB-,Consumer Discretionary,"Textiles, Apparel & Luxury Goo",US," 3,627.74 ",-34.8,7.3,47.07," 7,132.6 "," 9,154.7 "," 9,024.2 "," 9,217.7 ",1417.1,1348.5,1802.6,1419.7
-PEG US Equity,PUBLIC SERVICE ENTERPRISE GP,BBB+,Utilities,Multi-Utilities,US," 41,560.08 ",-0.5,17.4,21.28," 9,722.0 "," 9,800.0 "," 11,237.0 "," 10,290.0 ",744,960,1023,1124
-TXN US Equity,TEXAS INSTRUMENTS INC,A+,Information Technology,Semiconductors & Semiconductor,US," 135,068.20 ",-20.3,25.2,34.14," 18,344.0 "," 20,028.0 "," 17,519.0 "," 15,641.0 ",1910,2757,3999,4527
-TXT US Equity,TEXTRON INC,BBB,Industrials,Aerospace & Defense,US," 11,994.25 ",-13.6,11.9,27.07," 12,382.0 "," 12,869.0 "," 13,683.0 "," 13,702.0 ",3468,3550,3914,4071
-TKR US Equity,TIMKEN CO,BBB-,Industrials,Machinery,US," 4,310.15 ",-13.6,8.4,32.91," 4,132.9 "," 4,496.7 "," 4,769.0 "," 4,573.0 ",1042.7,1191.3,1229.1,1195.6
-TJX US Equity,TJX COMPANIES INC,A,Consumer Discretionary,Specialty Retail,US," 142,564.36 ",6.0,19.9,18.28," 32,137.0 "," 48,550.0 "," 49,936.0 "," 54,217.0 ",4337.389,5962,5819,5965
-TTC US Equity,TORO CO,BBB,Industrials,Machinery,US," 6,701.92 ",-15.7,14.1,32.40," 3,959.6 "," 4,514.7 "," 4,553.2 "," 4,583.8 ",738.17,1051.109,1087.8,1038.9
-JCI US Equity,JOHNSON CONTROLS INTERNATION,BBB+,Industrials,Building Products,US," 50,718.49 ",-2.2,20.6,30.39," 23,668.0 "," 25,299.0 "," 22,331.0 "," 22,952.0 ",2057,2510,2776,1774
-WY US Equity,WEYERHAEUSER CO,BBB,Real Estate,Specialized REITs,US," 18,734.16 ",-7.7,21.0,25.38," 10,201.0 "," 10,184.0 "," 7,674.0 "," 7,124.0 ",520,550,566,607
-AAPL US Equity,APPLE INC,AA+,Information Technology,"Technology Hardware, Storage &",US," 2,959,047.94 ",-21.3,27.7,29.40," 365,817.0 "," 394,328.0 "," 383,285.0 "," 391,035.0 ",6580,4946,6331,7286
-CTAS US Equity,CINTAS CORP,A-,Industrials,Commercial Services & Supplies,US," 83,083.21 ",12.8,30.1,24.13," 7,116.3 "," 7,854.5 "," 8,815.8 "," 9,596.6 ",481.797,472.15,506.604,410.201
-CSCO US Equity,CISCO SYSTEMS INC,AA-,Information Technology,Communications Equipment,US," 221,829.59 ",-4.5,18.8,22.87," 49,818.0 "," 51,557.0 "," 56,998.0 "," 53,803.0 ",1559,2568,3644,3373
-MKC US Equity,MCCORMICK & CO-NON VTG SHRS,BBB,Consumer Staples,Food Products,US," 20,192.41 ",-0.6,20.8,23.51," 6,317.9 "," 6,350.5 "," 6,662.2 "," 6,723.7 ",1182.3,1340.1,1126.5,1239.9
-COST US Equity,COSTCO WHOLESALE CORP,AA,Consumer Staples,Consumer Staples Distribution,US," 441,243.10 ",8.7,39.0,22.09," 195,929.0 "," 226,954.0 "," 242,290.0 "," 254,453.0 ",14215,17907,16651,18647
-AMAT US Equity,APPLIED MATERIALS INC,A,Information Technology,Semiconductors & Semiconductor,US," 111,678.12 ",-15.3,17.6,45.54," 23,063.0 "," 25,785.0 "," 26,517.0 "," 27,176.0 ",4309,5932,5725,5421
-COKE US Equity,COCA-COLA CONSOLIDATED INC,BBB+,Consumer Staples,Beverages,US," 12,344.38 ",12.6,10.0,32.50," 5,562.7 "," 6,201.0 "," 6,653.9 "," 6,899.7 ",302.851,347.545,321.932,330.395
-GILD US Equity,GILEAD SCIENCES INC,A-,Health Care,Biotechnology,US," 130,169.32 ",14.0,29.9,25.12," 27,305.0 "," 27,281.0 "," 27,116.0 "," 28,754.0 ",1618,1507,1787,1710
-HOLX US Equity,HOLOGIC INC,BBB-,Health Care,Health Care Equipment & Suppli,US," 12,992.62 ",-20.2,14.0,21.92," 5,632.3 "," 4,862.8 "," 4,030.4 "," 4,030.3 ",501.2,623.7,617.6,679.8
-BIIB US Equity,BIOGEN INC,BBB+,Health Care,Biotechnology,US," 17,361.53 ",-22.4,9.1,27.96," 10,981.7 "," 10,173.4 "," 9,835.6 "," 9,675.9 ",1351.5,1344.4,2527.4,2460.5
-LRCX US Equity,LAM RESEARCH CORP,A-,Information Technology,Semiconductors & Semiconductor,US," 81,846.29 ",-11.5,18.2,47.50," 14,626.2 "," 17,227.0 "," 17,428.5 "," 14,905.4 ",2689.294,3966.294,4816.19,4217.924
-ROST US Equity,ROSS STORES INC,BBB+,Consumer Discretionary,Specialty Retail,US," 45,915.12 ",-7.4,16.6,23.26," 12,531.6 "," 18,916.2 "," 18,695.8 "," 20,376.9 ",1508.982,2262.273,2023.495,2192.22
-SBUX US Equity,STARBUCKS CORP,BBB+,Consumer Discretionary,"Hotels, Restaurants & Leisure",US," 92,575.85 ",-10.2,15.0,37.32," 29,060.6 "," 32,250.3 "," 35,975.6 "," 36,176.2 ",1603.9,2176.6,1806.4,1777.3
-STZ US Equity,CONSTELLATION BRANDS INC-A,BBB,Consumer Staples,Beverages,US," 33,729.70 ",-15.0,54.2,27.26," 8,614.9 "," 8,820.7 "," 9,452.6 "," 9,961.8 ",1291.1,1573.2,1898.7,2078.3
-ATD CN Equity,ALIMENTATION COUCHE-TARD INC,BBB+,Consumer Staples,Consumer Staples Distribution,CA," 67,596.99 ",-10.3,10.7,22.60," 45,760.1 "," 62,809.9 "," 71,856.7 "," 69,263.5 ",1767.6,2403,2176,2333.1
-CAE CN Equity,CAE INC,BBB-,Industrials,Aerospace & Defense,CA," 10,391.34 ",-11.0,42.3,33.44," 2,981.9 "," 3,371.3 "," 4,010.6 "," 4,282.8 ",647.8,519.8,583.4,573.6
-CCL/B CN Equity,CCL INDUSTRIES INC - CL B,BBB,Materials,Containers & Packaging,CA," 12,104.20 ",-6.8,9.4,24.34," 5,732.8 "," 6,382.2 "," 6,649.6 "," 7,245.0 ",677.3,785.1,732.3,819.9
-ORLY US Equity,O'REILLY AUTOMOTIVE INC,BBB,Consumer Discretionary,Specialty Retail,US," 79,615.83 ",17.3,18.4,20.33," 13,327.6 "," 14,409.9 "," 15,812.3 "," 16,708.5 ",3686.383,4359.126,4658.367,5095.804
-RCL US Equity,ROYAL CARIBBEAN CRUISES LTD,BBB-,Consumer Discretionary,"Hotels, Restaurants & Leisure",US," 51,858.42 ",-16.2,13.9,41.08," 1,532.1 "," 8,840.0 "," 13,900.0 "," 16,484.0 ",150.224,224.016,248,265
-EXP US Equity,EAGLE MATERIALS INC,BBB,Materials,Construction Materials,US," 7,202.78 ",-12.2,11.8,32.36," 1,622.6 "," 1,861.5 "," 2,148.1 "," 2,259.3 ",235.749,236.661,291.882,373.923
-DLTR US Equity,DOLLAR TREE INC,BBB,Consumer Staples,Consumer Staples Distribution,US," 17,021.67 ",5.6,11.1,45.93," 25,509.3 "," 26,321.2 "," 28,331.7 "," 16,781.1 ",3427,4367.3,5449.3,2495.8
-NTAP US Equity,NETAPP INC,BBB+,Information Technology,"Technology Hardware, Storage &",US," 16,803.83 ",-28.0,15.4,38.44," 5,744.0 "," 6,318.0 "," 6,362.0 "," 6,268.0 ",114,204,167,186
-NOV US Equity,NOV INC,BBB,Energy,Energy Equipment & Services,US," 4,744.56 ",-13.7,5.6,40.04," 5,524.0 "," 7,237.0 "," 8,583.0 "," 8,870.0 ",1331,1813,2151,1932
-RL US Equity,RALPH LAUREN CORP,A-,Consumer Discretionary,"Textiles, Apparel & Luxury Goo",US," 12,754.31 ",-10.3,13.3,39.14," 4,400.8 "," 6,218.5 "," 6,443.6 "," 6,631.4 ",759,977.3,1071.3,902.2
-PWR US Equity,QUANTA SERVICES INC,BBB,Industrials,Construction & Engineering,US," 39,619.01 ",-15.4,22.9,38.56," 12,980.2 "," 17,073.9 "," 20,882.2 "," 23,672.8 ",84.659,103.265,175.658,260.181
-NVDA US Equity,NVIDIA CORP,AA-,Information Technology,Semiconductors & Semiconductor,US," 2,476,356.00 ",-24.4,41.3,57.05," 16,675.0 "," 26,914.0 "," 26,974.0 "," 60,922.0 ",1826,2605,5159,5282
-EPD US Equity,ENTERPRISE PRODUCTS PARTNERS,A-,Energy,"Oil, Gas & Consumable Fuels",US," 67,180.01 ",0.5,10.9,16.90," 40,806.9 "," 58,186.0 "," 49,715.0 "," 56,219.0 ",2681,2554,3352,3955
-JNPR US Equity,JUNIPER NETWORKS INC,BBB,Information Technology,Communications Equipment,US," 11,475.73 ",-7.8,28.7,21.85," 4,735.4 "," 5,301.2 "," 5,564.5 "," 5,073.6 ",272.6,619.4,952.4,830.1
-LII US Equity,LENNOX INTERNATIONAL INC,BBB,Industrials,Building Products,US," 19,738.95 ",-8.7,20.3,30.92," 4,194.1 "," 4,718.4 "," 4,981.9 "," 5,341.3 ",510.9,753,699.1,704.8
-PKG US Equity,PACKAGING CORP OF AMERICA,BBB,Materials,Containers & Packaging,US," 16,833.64 ",-16.3,13.6,23.18," 7,730.3 "," 8,478.0 "," 7,802.4 "," 8,383.3 ",902.5,977.3,1013.1,1124.9
-TPR US Equity,TAPESTRY INC,BBB,Consumer Discretionary,"Textiles, Apparel & Luxury Goo",US," 13,174.46 ",-2.1,12.4,38.97," 5,746.3 "," 6,684.5 "," 6,660.9 "," 6,671.2 ",734.8,994.2,919.5,824.8
-CP CN Equity,CANADIAN PACIFIC KANSAS CITY,BBB+,Industrials,Ground Transportation,CA," 96,321.88 ",-0.7,17.0,22.66," 7,995.0 "," 13,217.0 "," 12,555.0 "," 14,546.0 ",235,284,400,457
-EW US Equity,EDWARDS LIFESCIENCES CORP,BBB,Health Care,Health Care Equipment & Suppli,US," 42,049.98 ",-3.4,25.3,42.04," 5,232.5 "," 5,382.4 "," 5,010.0 "," 5,439.5 ",726.7,875.5,903.5,1086.7
-AYI US Equity,ACUITY INC,BBB,Industrials,Electrical Equipment,US," 7,077.85 ",-21.5,15.6,31.73," 3,461.0 "," 4,006.1 "," 3,952.2 "," 3,841.0 ",398.7,485.7,368.5,387.6
-LKQ US Equity,LKQ CORP,BBB-,Consumer Discretionary,Distributors,US," 10,866.99 ",15.2,9.3,29.12," 13,088.5 "," 12,794.0 "," 13,866.0 "," 14,355.0 ",2611,2752,3121,3220
-HUN US Equity,HUNTSMAN CORP,BBB-,Materials,Chemicals,US," 2,265.67 ",-26.6,19.7,34.55," 7,670.0 "," 8,023.0 "," 6,111.0 "," 6,036.0 ",1038,995,867,917
-DAL US Equity,DELTA AIR LINES INC,BBB-,Industrials,Passenger Airlines,US," 26,673.22 ",-32.3,5.6,42.55," 29,899.0 "," 50,582.0 "," 58,048.0 "," 61,643.0 ",1098,1424,1314,1428
-TSLA US Equity,TESLA INC,BBB,Consumer Discretionary,Automobiles,US," 776,370.72 ",-40.2,102.6,66.50," 53,823.0 "," 81,462.0 "," 96,773.0 "," 97,690.0 ",5757,12839,13626,12017
-CDW US Equity,CDW CORP/DE,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 19,958.70 ",-12.7,14.7,29.94," 20,820.8 "," 23,748.7 "," 21,376.0 "," 20,998.7 ",927.6,800.2,668.1,605.3
-NWSA US Equity,NEWS CORP - CLASS A,BBB-,Communication Services,Media,US," 15,456.73 ",-5.7,12.7,22.99," 9,358.0 "," 10,385.0 "," 9,879.0 "," 10,085.0 ",253,311,311,296
-VNT US Equity,VONTIER CORP,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 4,455.54 ",-17.6,11.0,30.48," 2,990.7 "," 3,184.4 "," 3,095.2 "," 2,979.0 ",287,346,296.6,337.8
-APA US Equity,APA CORP,BBB-,Energy,"Oil, Gas & Consumable Fuels",US," 5,826.40 ",-29.5,3.7,46.05," 8,079.0 "," 10,961.0 "," 8,378.0 "," 9,727.0 ",473,427,453,425
-MRVL US Equity,MARVELL TECHNOLOGY INC,BBB-,Information Technology,Semiconductors & Semiconductor,US," 44,777.37 ",-53.1,158.9,65.99," 2,968.9 "," 4,462.4 "," 5,919.6 "," 5,507.7 ",268.228,720.331,1068.3,864.4
-DINO US Equity,HF SINCLAIR CORP,BBB-,Energy,"Oil, Gas & Consumable Fuels",US," 5,469.47 ",-15.9,8.2,36.57," 18,389.1 "," 38,204.8 "," 31,964.4 "," 28,580.0 ",2122.128,3214.528,2921.831,2798
-GEV US Equity,GE VERNOVA INC,BBB-,Industrials,Electrical Equipment,US," 88,440.96 ",-1.6,50.8,59.56," 33,006.0 "," 29,654.0 "," 33,239.0 "," 34,935.0 ",#N/A N/A,7893,8253,8587
-SOLV US Equity,SOLVENTUM CORP,BBB-,Health Care,Health Care Equipment & Suppli,US," 11,463.17 ",0.3,11.8,35.87," 8,171.0 "," 8,130.0 "," 8,197.0 "," 8,254.0 ",#N/A N/A,873,857,965
-HES US Equity,HESS CORP,BBB-,Energy,"Oil, Gas & Consumable Fuels",US," 40,408.22 ",-1.5,7.0,27.54," 7,473.0 "," 11,324.0 "," 10,511.0 "," 12,896.0 ",223,217,304,419
-ARW US Equity,ARROW ELECTRONICS INC,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 5,300.31 ",-9.7,9.8,28.63," 34,477.0 "," 37,124.4 "," 33,107.1 "," 27,923.3 ",4201.965,5319.369,5187.225,4709.706
-AVT US Equity,AVNET INC,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 4,083.02 ",-9.2,9.4,27.85," 19,534.7 "," 24,310.7 "," 26,536.9 "," 23,757.1 ",3236.837,4244.148,5465.031,5468.73
-BCE CN Equity,BCE INC,BBB,Communication Services,Diversified Telecommunication,CA," 28,088.00 ",-5.8,7.2,22.99," 23,449.0 "," 24,174.0 "," 24,673.0 "," 24,409.0 ",482,656,465,420
-BA US Equity,BOEING CO/THE,BBB-,Industrials,Aerospace & Defense,US," 121,814.77 ",-8.5,#N/A N/A,38.59," 62,286.0 "," 66,608.0 "," 77,794.0 "," 66,517.0 ",78175,77357,78795,86374
-BC US Equity,BRUNSWICK CORP,BBB-,Consumer Discretionary,Leisure Products,US," 2,886.74 ",-31.8,10.8,39.48," 5,846.2 "," 6,812.2 "," 6,401.4 "," 5,237.1 ",1208,1471.4,1476.8,1302.6
-CPB US Equity,THE CAMPBELL'S COMPANY,BBB-,Consumer Staples,Food Products,US," 11,190.77 ",-8.7,12.0,24.51," 8,476.0 "," 8,562.0 "," 9,357.0 "," 9,636.0 ",933,1246,1291,1386
-CAG US Equity,CONAGRA BRANDS INC,BBB-,Consumer Staples,Food Products,US," 12,091.59 ",-7.5,22.9,23.82," 11,184.7 "," 11,535.9 "," 12,277.0 "," 12,050.9 ",1709.7,1966.7,2212.2,2083
-FMC US Equity,FMC CORP,BBB-,Materials,Chemicals,US," 4,726.36 ",-21.1,12.8,55.07," 5,045.2 "," 5,802.3 "," 4,486.8 "," 4,246.1 ",1521.9,1651.6,1724.6,1201.6
-F US Equity,FORD MOTOR CO,BBB-,Consumer Discretionary,Automobiles,US," 38,294.15 ",0.4,2.5,38.39," 136,341.0 "," 158,057.0 "," 176,191.0 "," 184,992.0 ",12065,14080,15651,14951
-FCX US Equity,FREEPORT-MCMORAN INC,BBB-,Materials,Metals & Mining,US," 47,279.70 ",-12.9,7.9,42.98," 22,845.0 "," 22,780.0 "," 22,855.0 "," 25,455.0 ",4692,5401,6281,6808
-MTH US Equity,MERITAGE HOMES CORP,BBB-,Consumer Discretionary,Household Durables,US," 4,678.30 ",-14.8,6.4,39.08," 5,147.3 "," 6,298.2 "," 6,137.6 "," 6,392.9 ",3742.419,4358.263,4721.291,5728.775
-IFF US Equity,INTL FLAVORS & FRAGRANCES,BBB-,Materials,Chemicals,US," 18,540.79 ",-13.8,16.2,27.06," 11,656.0 "," 12,440.0 "," 11,479.0 "," 11,484.0 ",2516,3151,2477,2133
-LEG US Equity,LEGGETT & PLATT INC,BBB-,Consumer Discretionary,Household Durables,US, 927.13 ,-28.0,#N/A N/A,50.93," 5,072.6 "," 5,146.7 "," 4,725.3 "," 4,383.6 ",993.2,907.5,819.7,722.6
-MAT US Equity,MATTEL INC,BBB,Consumer Discretionary,Leisure Products,US," 4,788.72 ",-16.4,8.3,37.29," 5,457.7 "," 5,434.7 "," 5,441.2 "," 5,379.5 ",777.184,894.064,571.609,501.732
-MU US Equity,MICRON TECHNOLOGY INC,BBB-,Information Technology,Semiconductors & Semiconductor,US," 76,888.92 ",-18.1,7.5,58.82," 27,705.0 "," 30,758.0 "," 15,540.0 "," 25,111.0 ",4487,6663,8387,8875
-PPC US Equity,PILGRIM'S PRIDE CORP,BBB-,Consumer Staples,Food Products,US," 12,821.12 ",33.7,6.4,30.04," 14,777.5 "," 17,468.4 "," 17,362.2 "," 17,878.3 ",1575.658,1990.184,1985.399,1783.488
-TOL US Equity,TOLL BROTHERS INC,BBB-,Consumer Discretionary,Household Durables,US," 9,339.12 ",-25.1,7.8,37.56," 8,790.4 "," 10,275.6 "," 9,994.9 "," 10,846.7 ",7915.884,8733.326,9057.578,9712.925
-UVV US Equity,UNIVERSAL CORP/VA,BBB-,Consumer Staples,Tobacco,US," 1,275.63 ",-2.8,8.2,26.75," 1,983.4 "," 2,103.6 "," 2,569.8 "," 2,748.6 ",786.618,1016.674,1036.783,1264.098
-WHR US Equity,WHIRLPOOL CORP,BBB-,Consumer Discretionary,Household Durables,US," 4,366.47 ",-29.9,27.1,43.80," 21,985.0 "," 19,724.0 "," 19,455.0 "," 16,607.0 ",2717,2089,2247,2035
-AES US Equity,AES CORP,BBB-,Utilities,Independent Power and Renewabl,US," 7,247.15 ",-19.6,10.0,42.15," 11,141.0 "," 12,617.0 "," 12,668.0 "," 12,278.0 ",604,1055,712,593
-SON US Equity,SONOCO PRODUCTS CO,BBB-,Materials,Containers & Packaging,US," 4,329.63 ",-9.1,13.6,22.09," 5,590.4 "," 7,250.6 "," 6,781.3 "," 5,305.4 ",562.113,1095.558,773.501,1016.139
-AGCO US Equity,AGCO CORP,BBB-,Industrials,Machinery,US," 6,038.16 ",-13.1,45.1,34.81," 11,138.3 "," 12,651.4 "," 14,412.4 "," 11,661.9 ",2593.7,3189.7,3440.7,2731.3
-FLS US Equity,FLOWSERVE CORP,BBB-,Industrials,Machinery,US," 5,494.47 ",-27.1,16.3,32.36," 3,541.1 "," 3,615.1 "," 4,320.6 "," 4,557.8 ",678.287,803.198,879.937,837.254
-HAS US Equity,HASBRO INC,BBB,Consumer Discretionary,Leisure Products,US," 7,365.38 ",-4.8,10.8,33.93," 6,420.4 "," 5,856.7 "," 5,003.3 "," 4,135.5 ",552.1,676.8,332,274.2
-KEX US Equity,KIRBY CORP,BBB,Industrials,Marine Transportation,US," 5,423.99 ",-9.9,10.3,30.83," 2,246.7 "," 2,784.8 "," 3,091.6 "," 3,265.9 ",331.35,461.848,454.389,393.898
-AN US Equity,AUTONATION INC,BBB-,Consumer Discretionary,Specialty Retail,US," 6,506.36 ",-2.4,9.6,33.63," 25,844.0 "," 26,985.0 "," 26,948.9 "," 26,765.4 ",1847.9,2048.3,3033.4,3360
-PII US Equity,POLARIS INC,BBB,Consumer Discretionary,Leisure Products,US," 1,854.78 ",-41.5,8.9,44.38," 8,198.2 "," 8,589.0 "," 8,934.4 "," 7,175.4 ",1644.8,1896.1,1810.5,1741.5
-XRAY US Equity,DENTSPLY SIRONA INC,BBB-,Health Care,Health Care Equipment & Suppli,US," 2,556.93 ",-31.7,#N/A N/A,42.71," 4,231.0 "," 3,922.0 "," 3,965.0 "," 3,793.0 ",515,627,624,564
-T CN Equity,TELUS CORP,BBB-,Communication Services,Diversified Telecommunication,CA," 31,449.03 ",8.5,8.7,22.35," 17,258.0 "," 18,412.0 "," 20,116.0 "," 20,386.0 ",448,537,484,629
-CCO CN Equity,CAMECO CORP,BBB-,Energy,"Oil, Gas & Consumable Fuels",CA," 24,812.79 ",-22.9,41.5,45.46," 1,475.0 "," 1,868.0 "," 2,587.8 "," 3,135.8 ",409.521,664.698,692.261,826.863
-TCL/A CN Equity,TRANSCONTINENTAL INC-CL A,BBB-,Materials,Containers & Packaging,CA," 1,480.97 ",3.5,4.7,28.65," 2,643.4 "," 2,956.1 "," 2,940.6 "," 2,812.9 ",357,479.3,391.1,365.7
-PAAS CN Equity,PAN AMERICAN SILVER CORP,BBB-,Materials,Metals & Mining,CA," 13,631.64 ",30.0,7.6,46.04," 1,632.8 "," 1,494.7 "," 2,316.1 "," 2,818.9 ",500.462,471.63,711.6,605.7
-RCI/B CN Equity,ROGERS COMMUNICATIONS INC-B,BBB-,Communication Services,Wireless Telecommunication Ser,CA," 19,745.90 ",-17.9,7.6,19.93," 14,655.0 "," 15,396.0 "," 19,308.0 "," 20,604.0 ",535,438,456,641
-TECK/B CN Equity,TECK RESOURCES LTD-CLS B,BBB-,Materials,Metals & Mining,CA," 22,917.94 ",-21.6,7.2,39.36," 12,766.0 "," 17,316.0 "," 6,476.0 "," 9,065.0 ",2390,2685,2946,2598
-WFG CN Equity,WEST FRASER TIMBER CO LTD,BBB-,Materials,Paper & Forest Products,CA," 8,097.40 ",-18.0,11.7,28.88," 10,518.0 "," 9,701.0 "," 6,454.0 "," 6,174.0 ",1061,1032,851,844
-JBL US Equity,JABIL INC,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 14,495.92 ",-6.1,10.8,42.82," 29,285.0 "," 33,478.0 "," 34,702.0 "," 28,883.0 ",4414,6128,5206,4276
-ATR US Equity,APTARGROUP INC,BBB-,Materials,Containers & Packaging,US," 9,487.91 ",-8.2,14.5,20.19," 3,227.2 "," 3,322.2 "," 3,487.5 "," 3,582.9 ",441.464,486.806,513.053,461.807
-K CN Equity,KINROSS GOLD CORP,BBB-,Materials,Metals & Mining,CA," 25,224.10 ",54.0,4.6,39.18," 2,599.6 "," 3,455.1 "," 4,239.7 "," 5,148.8 ",1151.3,1072.2,1153,1243.2
-ALB US Equity,ALBEMARLE CORP,BBB-,Materials,Chemicals,US," 6,224.89 ",-38.2,#N/A N/A,61.22," 3,328.0 "," 7,320.1 "," 9,617.2 "," 5,377.5 ",798.62,2076.031,2161.287,1502.531
-FLEX US Equity,FLEX LTD,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 12,083.07 ",-17.8,10.6,43.70," 24,124.0 "," 26,041.0 "," 28,502.0 "," 26,415.0 ",3895,6580,7388,6205
-ALA CN Equity,ALTAGAS LTD,BBB-,Utilities,Gas Utilities,CA," 11,918.93 ",20.5,13.3,17.78," 10,573.0 "," 14,087.0 "," 12,997.0 "," 12,448.0 ",782,1060,847,676
-ILMN US Equity,ILLUMINA INC,BBB,Health Care,Life Sciences Tools & Services,US," 11,268.33 ",-46.7,#N/A N/A,44.03," 4,526.0 "," 4,584.0 "," 4,504.0 "," 4,372.0 ",431,568,587,547
-EMA CN Equity,EMERA INC,BBB,Utilities,Electric Utilities,CA," 18,170.90 ",15.1,16.4,17.13," 5,765.0 "," 7,588.0 "," 7,563.0 "," 7,200.0 ",538,769,790,781
-SNX US Equity,TD SYNNEX CORP,BBB-,Information Technology,"Electronic Equipment, Instrume",US," 8,869.65 ",-9.2,9.5,30.41," 31,614.2 "," 62,343.8 "," 57,555.4 "," 58,452.4 ",6642.915,9066.62,7146.274,8287.048
-FLO US Equity,FLOWERS FOODS INC,BBB,Consumer Staples,Food Products,US," 3,855.23 ",-10.5,9.7,21.59," 4,330.8 "," 4,805.8 "," 5,090.8 "," 5,103.5 ",203.459,242.311,270.883,262.691
-KEY CN Equity,KEYERA CORP,BBB,Energy,"Oil, Gas & Consumable Fuels",CA," 9,619.86 ",-3.3,11.4,19.24," 4,984.9 "," 7,060.2 "," 7,053.1 "," 7,138.4 ",280.736,300.883,225.79,270.225
-WLK US Equity,WESTLAKE CORP,BBB+,Materials,Chemicals,US," 11,801.72 ",-19.5,8.8,30.73," 11,778.0 "," 15,794.0 "," 12,548.0 "," 12,142.0 ",1407,1866,1622,1697
-TMUS US Equity,T-MOBILE US INC,BBB,Communication Services,Wireless Telecommunication Ser,US," 297,850.47 ",19.1,11.7,20.46," 80,118.0 "," 79,571.0 "," 78,558.0 "," 81,400.0 ",2567,1884,1678,1607
-MOS US Equity,MOSAIC CO/THE,BBB,Materials,Chemicals,US," 8,650.85 ",11.9,7.3,36.04," 12,357.4 "," 19,125.2 "," 13,696.1 "," 11,122.8 ",2741.4,3543.1,2523.2,2548.4
-CF US Equity,CF INDUSTRIES HOLDINGS INC,BBB,Materials,Chemicals,US," 12,468.39 ",-11.7,7.0,30.78," 6,538.0 "," 11,186.0 "," 6,631.0 "," 5,936.0 ",408,474,299,314
-ET US Equity,ENERGY TRANSFER LP,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 59,257.08 ",-10.4,10.0,23.54," 67,417.0 "," 89,876.0 "," 78,586.0 "," 82,671.0 ",2014,2461,2478,3070
-OC US Equity,OWENS CORNING,BBB,Industrials,Building Products,US," 11,789.20 ",-18.4,11.0,32.86," 8,498.0 "," 9,761.0 "," 9,677.0 "," 10,975.0 ",1078,1334,1198,1587
-CVE CN Equity,CENOVUS ENERGY INC,BBB,Energy,"Oil, Gas & Consumable Fuels",CA," 30,537.18 ",-22.4,4.9,34.64," 45,364.0 "," 65,135.0 "," 52,195.0 "," 54,231.0 ",3919,4312,4030,4496
-GM US Equity,GENERAL MOTORS CO,BBB,Consumer Discretionary,Automobiles,US," 43,067.12 ",-16.1,2.0,35.67," 127,004.0 "," 156,735.0 "," 171,842.0 "," 187,442.0 ",12988,15366,16461,14564
-DOL CN Equity,DOLLARAMA INC,BBB,Consumer Discretionary,Broadline Retail,CA," 46,510.36 ",19.8,20.1,22.68," 4,026.3 "," 4,330.8 "," 5,052.7 "," 5,867.3 ",630.655,590.927,957.172,916.812
-LEA US Equity,LEAR CORP,BBB,Consumer Discretionary,Automobile Components,US," 4,252.19 ",-15.5,4.5,31.56," 19,263.1 "," 20,891.5 "," 23,466.9 "," 23,306.0 ",1571.9,1573.6,1758,1601.1
-LYB US Equity,LYONDELLBASELL INDU-CL A,BBB,Materials,Chemicals,US," 18,327.48 ",-22.2,10.1,27.48," 46,173.0 "," 50,451.0 "," 41,107.0 "," 40,302.0 ",4901,4804,4765,4658
-TRGP US Equity,TARGA RESOURCES CORP,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 37,983.87 ",-1.8,13.3,31.22," 16,949.8 "," 20,929.8 "," 16,060.3 "," 16,381.5 ",153.4,393.8,371.5,334.3
-KMI US Equity,KINDER MORGAN INC,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 60,218.06 ",-0.1,14.8,22.93," 16,610.0 "," 19,200.0 "," 15,334.0 "," 15,100.0 ",562,634,525,555
-FBIN US Equity,FORTUNE BRANDS INNOVATIONS I,BBB,Industrials,Building Products,US," 6,239.65 ",-24.4,11.8,33.87," 7,656.1 "," 4,723.0 "," 4,626.2 "," 4,609.0 ",1193.8,1021.3,982.3,960.3
-MPC US Equity,MARATHON PETROLEUM CORP,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 39,788.79 ",-7.9,7.7,34.94," 119,983.0 "," 177,453.0 "," 148,379.0 "," 138,864.0 ",8055,8827,9317,9568
-IR US Equity,INGERSOLL-RAND INC,BBB,Industrials,Machinery,US," 29,038.12 ",-20.3,22.4,29.25," 5,152.4 "," 5,916.3 "," 6,876.1 "," 7,235.0 ",854.2,1025.4,1001.1,1055
-KEYS US Equity,KEYSIGHT TECHNOLOGIES IN,BBB,Information Technology,"Electronic Equipment, Instrume",US," 23,408.91 ",-15.7,26.6,34.15," 4,941.0 "," 5,420.0 "," 5,464.0 "," 4,979.0 ",777,858,985,1022
-KHC US Equity,KRAFT HEINZ CO/THE,BBB,Consumer Staples,Food Products,US," 35,157.52 ",-2.9,21.3,21.94," 26,042.0 "," 26,485.0 "," 26,640.0 "," 25,846.0 ",2729,3651,3614,3376
-HPE US Equity,HEWLETT PACKARD ENTERPRISE,BBB,Information Technology,"Technology Hardware, Storage &",US," 19,887.57 ",-28.5,7.0,44.79," 27,784.0 "," 28,496.0 "," 29,135.0 "," 30,127.0 ",4511,5161,4607,7810
-QRVO US Equity,QORVO INC,BBB-,Information Technology,Semiconductors & Semiconductor,US," 5,382.46 ",-17.6,18.4,54.03," 4,015.3 "," 4,645.7 "," 3,569.4 "," 3,769.5 ",507.787,755.748,796.596,710.555
-ITT US Equity,ITT INC,BBB,Industrials,Machinery,US," 10,372.87 ",-10.1,14.7,29.48," 2,765.0 "," 2,987.7 "," 3,283.0 "," 3,630.7 ",430.9,533.9,575.4,591.2
-DELL US Equity,DELL TECHNOLOGIES -C,BBB,Information Technology,"Technology Hardware, Storage &",US," 59,176.90 ",-26.1,9.9,59.97," 86,670.0 "," 101,197.0 "," 102,301.0 "," 88,425.0 ",3403,5898,4776,3622
-HWM US Equity,HOWMET AEROSPACE INC,BBB,Industrials,Aerospace & Defense,US," 49,842.07 ",12.8,24.1,35.81," 4,972.0 "," 5,663.0 "," 6,640.0 "," 7,430.0 ",1402,1609,1765,1840
-NTR CN Equity,NUTRIEN LTD,BBB,Materials,Chemicals,CA," 35,523.71 ",14.2,7.5,27.16," 27,712.0 "," 37,884.0 "," 29,056.0 "," 25,972.0 ",6328,7632,6336,6148
-AVGO US Equity,BROADCOM INC,BBB+,Information Technology,Semiconductors & Semiconductor,US," 803,986.21 ",-26.0,39.9,56.65," 27,450.0 "," 33,203.0 "," 35,819.0 "," 51,574.0 ",1297,1925,1898,1760
-STE US Equity,STERIS PLC,BBB,Health Care,Health Care Equipment & Suppli,US," 21,834.27 ",8.4,16.5,21.85," 3,107.5 "," 4,223.4 "," 4,536.3 "," 5,138.7 ",315.067,574.999,604.41,674.535
-GEHC US Equity,GE HEALTHCARE TECHNOLOGY,BBB,Health Care,Health Care Equipment & Suppli,US," 28,555.68 ",-20.2,13.2,34.53," 17,585.0 "," 18,341.0 "," 19,552.0 "," 19,672.0 ",1946,2155,1960,1939
-ABX CN Equity,BARRICK GOLD CORP,BBB+,Materials,Metals & Mining,CA," 48,247.93 ",26.1,5.6,33.02," 11,985.0 "," 11,013.0 "," 11,397.0 "," 12,922.0 ",1734,1781,1782,1942
-AEP US Equity,AMERICAN ELECTRIC POWER,BBB+,Utilities,Electric Utilities,US," 57,515.81 ",17.9,12.4,20.12," 16,792.0 "," 19,639.5 "," 18,982.3 "," 19,721.3 ",989.2,1350.2,1879.5,1715.1
-AZO US Equity,AUTOZONE INC,BBB,Consumer Discretionary,Specialty Retail,US," 60,281.21 ",12.5,15.0,21.48," 14,629.6 "," 16,252.2 "," 17,457.2 "," 18,490.3 ",4639.813,5638.004,5764.143,6155.218
-BDX US Equity,BECTON DICKINSON AND CO,BBB,Health Care,Health Care Equipment & Suppli,US," 57,056.68 ",-12.0,17.5,20.46," 19,131.0 "," 18,870.0 "," 19,372.0 "," 20,178.0 ",2743,3224,3273,3843
-CMS US Equity,CMS ENERGY CORP,BBB+,Utilities,Multi-Utilities,US," 21,808.45 ",10.3,13.6,17.72," 7,329.0 "," 8,596.0 "," 7,462.0 "," 7,515.0 ",667,1117,938,769
-DUK US Equity,DUKE ENERGY CORP,BBB+,Utilities,Electric Utilities,US," 94,641.24 ",14.1,11.9,17.47," 24,621.0 "," 28,768.0 "," 29,060.0 "," 30,357.0 ",3111,3584,4292,4509
-RVTY US Equity,REVVITY INC,BBB,Health Care,Life Sciences Tools & Services,US," 11,031.92 ",-17.6,20.2,32.41," 3,827.8 "," 3,311.8 "," 2,750.6 "," 2,755.0 ",425.89,405.462,428.062,367.587
-ETR US Equity,ENTERGY CORP,BBB+,Utilities,Electric Utilities,US," 37,166.81 ",10.6,12.0,24.41," 11,742.9 "," 13,764.2 "," 12,147.4 "," 11,879.7 ",1196.09,1330.94,1611.768,1797.464
-NEU US Equity,NEWMARKET CORP,BBB+,Materials,Chemicals,US," 5,350.54 ",7.3,8.5,24.15," 2,356.1 "," 2,764.8 "," 2,698.4 "," 2,786.6 ",498.539,631.383,456.234,505.426
-GPC US Equity,GENUINE PARTS CO,BBB,Consumer Discretionary,Distributors,US," 15,835.03 ",-1.5,13.3,31.90," 18,870.5 "," 22,096.0 "," 23,090.6 "," 23,486.6 ",3889.919,4441.649,4676.686,5514.427
-HOG US Equity,HARLEY-DAVIDSON INC,BBB-,Consumer Discretionary,Automobiles,US," 2,784.56 ",-24.8,16.5,41.70," 5,336.3 "," 5,755.1 "," 5,836.5 "," 5,186.8 ",712.942,950.96,929.951,745.793
-LHX US Equity,L3HARRIS TECHNOLOGIES INC,BBB,Industrials,Aerospace & Defense,US," 40,963.46 ",4.3,16.3,20.94," 17,814.0 "," 17,062.0 "," 19,419.0 "," 21,325.0 ",982,1291,1472,1330
-HPQ US Equity,HP INC,BBB,Information Technology,"Technology Hardware, Storage &",US," 22,464.61 ",-26.2,8.5,35.67," 63,487.0 "," 62,910.0 "," 53,718.0 "," 53,559.0 ",7930,7614,6862,7720
-CNP US Equity,CENTERPOINT ENERGY INC,BBB+,Utilities,Multi-Utilities,US," 24,255.33 ",17.9,12.1,20.44," 8,352.0 "," 9,321.0 "," 8,696.0 "," 8,643.0 ",608,876,770,714
-IEX US Equity,IDEX CORP,BBB,Industrials,Machinery,US," 12,385.46 ",-21.4,20.2,24.35," 2,764.8 "," 3,181.9 "," 3,273.9 "," 3,268.8 ",370.4,470.9,420.8,429.7
-KMT US Equity,KENNAMETAL INC,BBB,Industrials,Machinery,US," 1,441.22 ",-21.7,8.1,32.86," 1,841.4 "," 2,012.5 "," 2,078.2 "," 2,046.9 ",476.345,570.836,557.63,514.632
-LEN US Equity,LENNAR CORP-A,BBB,Consumer Discretionary,Household Durables,US," 27,465.95 ",-19.8,6.6,32.68," 27,130.7 "," 33,671.0 "," 34,233.4 "," 35,441.5 ",19169.397,21862.453,18897.67,20312.43
-MAS US Equity,MASCO CORP,BBB,Industrials,Building Products,US," 13,033.55 ",-14.8,12.1,27.33," 8,375.0 "," 8,680.0 "," 7,967.0 "," 7,828.0 ",1216,1236,1022,938
-CVS US Equity,CVS HEALTH CORP,BBB,Health Care,Health Care Providers & Servic,US," 84,945.81 ",51.8,9.8,37.50," 292,111.0 "," 322,467.0 "," 357,776.0 "," 372,809.0 ",17760,19090,18025,18107
-MSI US Equity,MOTOROLA SOLUTIONS INC,BBB,Information Technology,Communications Equipment,US," 70,283.31 ",-8.7,25.8,20.20," 8,171.0 "," 9,112.0 "," 9,978.0 "," 10,817.0 ",788,1055,827,766
-NI US Equity,NISOURCE INC,BBB+,Utilities,Multi-Utilities,US," 18,490.09 ",7.7,13.2,18.44," 4,899.6 "," 5,850.6 "," 5,505.4 "," 5,455.1 ",498.7,751.9,503.2,389.1
-ES US Equity,EVERSOURCE ENERGY,BBB+,Utilities,Electric Utilities,US," 21,085.18 ",1.3,12.0,26.09," 9,863.1 "," 12,289.3 "," 11,910.7 "," 11,900.8 ",267.547,374.395,507.307,594.568
-OKE US Equity,ONEOK INC,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 53,861.12 ",-13.2,15.5,27.33," 16,540.3 "," 22,386.9 "," 17,677.0 "," 21,698.0 ",580.899,580.725,787,748
-MO US Equity,ALTRIA GROUP INC,BBB,Consumer Staples,Tobacco,US," 98,077.61 ",13.2,9.6,19.50," 21,111.0 "," 20,688.0 "," 20,502.0 "," 20,444.0 ",1194,1180,1215,1080
-PHM US Equity,PULTEGROUP INC,BBB,Consumer Discretionary,Household Durables,US," 19,140.53 ",-12.6,5.5,32.73," 13,926.9 "," 16,003.0 "," 16,061.6 "," 17,947.0 ",9047.569,11326.017,11795.37,12665.813
-PNW US Equity,PINNACLE WEST CAPITAL,BBB+,Utilities,Electric Utilities,US," 11,259.85 ",12.6,10.1,19.76," 3,803.8 "," 4,324.4 "," 4,696.0 "," 5,124.9 ",367.167,450.636,493.547,501.442
-EIX US Equity,EDISON INTERNATIONAL,BBB,Utilities,Electric Utilities,US," 22,096.50 ",-26.2,12.3,28.11," 14,905.0 "," 17,220.0 "," 16,338.0 "," 17,599.0 ",420,474,527,538
-SHW US Equity,SHERWIN-WILLIAMS CO/THE,BBB,Materials,Chemicals,US," 83,848.45 ",-1.7,21.9,22.94," 19,944.6 "," 22,148.9 "," 23,051.9 "," 23,098.5 ",1927.2,2626.5,2329.8,2288.1
-LUV US Equity,SOUTHWEST AIRLINES CO,BBB,Industrials,Passenger Airlines,US," 14,198.62 ",-26.0,9.8,41.50," 15,790.0 "," 23,814.0 "," 26,091.0 "," 27,483.0 ",537,790,807,800
-T US Equity,AT&T INC,BBB,Communication Services,Diversified Telecommunication,US," 194,887.67 ",22.0,8.1,22.18," 134,038.0 "," 120,741.0 "," 122,428.0 "," 122,336.0 ",3325,3123,2177,2270
-SYY US Equity,SYSCO CORP,BBB,Consumer Staples,Consumer Staples Distribution,US," 35,097.33 ",-4.9,12.2,21.08," 51,297.8 "," 68,636.1 "," 76,324.7 "," 78,844.0 ",3695.219,4437.498,4480.812,4678
-TRP CN Equity,TC ENERGY CORP,BBB+,Energy,"Oil, Gas & Consumable Fuels",CA," 71,149.64 ",3.5,14.2,18.30," 13,387.0 "," 12,309.0 "," 13,267.0 "," 13,771.0 ",724,936,771,747
-VMC US Equity,VULCAN MATERIALS CO,BBB+,Materials,Construction Materials,US," 31,959.24 ",-5.7,19.0,24.62," 5,552.2 "," 7,315.2 "," 7,781.9 "," 7,417.7 ",521.3,579.3,615.6,681.8
-WMB US Equity,WILLIAMS COS INC,BBB+,Energy,"Oil, Gas & Consumable Fuels",US," 71,556.66 ",9.3,17.1,23.87," 10,627.0 "," 10,965.0 "," 10,907.0 "," 10,503.0 ",379,320,274,279
-LNT US Equity,ALLIANT ENERGY CORP,BBB+,Utilities,Electric Utilities,US," 15,617.89 ",3.7,15.4,19.31," 3,669.0 "," 4,205.0 "," 4,027.0 "," 3,981.0 ",246,325,343,295
-AMGN US Equity,AMGEN INC,BBB+,Health Care,Biotechnology,US," 149,085.14 ",7.3,14.7,26.18," 25,979.0 "," 26,323.0 "," 28,190.0 "," 33,424.0 ",4086,4930,9518,6998
-TAP US Equity,MOLSON COORS BEVERAGE CO - B,BBB,Consumer Staples,Beverages,US," 12,067.75 ",3.3,6.9,25.26," 10,279.7 "," 10,701.0 "," 11,702.1 "," 11,627.0 ",804.7,792.9,802.3,727.8
-INTC US Equity,INTEL CORP,BBB,Information Technology,Semiconductors & Semiconductor,US," 82,546.00 ",-5.6,#N/A N/A,58.71," 79,024.0 "," 63,054.0 "," 54,228.0 "," 53,101.0 ",10776,13224,11127,12198
-TSN US Equity,TYSON FOODS INC-CL A,BBB,Consumer Staples,Food Products,US," 21,802.66 ",7.4,7.7,22.81," 47,049.0 "," 53,282.0 "," 52,881.0 "," 53,309.0 ",4382,5514,5328,5195
-SWKS US Equity,SKYWORKS SOLUTIONS INC,BBB-,Information Technology,Semiconductors & Semiconductor,US," 8,597.12 ",-36.2,13.7,49.32," 5,109.1 "," 5,485.5 "," 4,772.4 "," 4,178.0 ",885,1212.1,1119.7,784.8
-BIO US Equity,BIO-RAD LABORATORIES-A,BBB,Health Care,Life Sciences Tools & Services,US," 6,606.34 ",-27.5,18.2,36.57," 2,922.5 "," 2,802.2 "," 2,671.3 "," 2,566.5 ",572.239,719.316,780.517,760
-CAH US Equity,CARDINAL HEALTH INC,BBB,Health Care,Health Care Providers & Servic,US," 32,541.62 ",14.8,12.4,22.21," 162,467.0 "," 181,364.0 "," 204,979.0 "," 226,827.0 ",14594,15636,16119,14957
-NDSN US Equity,NORDSON CORP,BBB,Industrials,Machinery,US," 10,290.21 ",-12.9,18.5,26.65," 2,362.2 "," 2,590.3 "," 2,628.6 "," 2,689.9 ",327.195,383.398,454.775,476.935
-OSK US Equity,OSHKOSH CORP,BBB,Industrials,Machinery,US," 5,460.97 ",-10.7,6.7,35.44," 7,952.5 "," 8,282.0 "," 9,657.9 "," 10,730.2 ",1382.7,1865.6,2131.6,2265.7
-RPM US Equity,RPM INTERNATIONAL INC,BBB,Materials,Chemicals,US," 13,246.78 ",-15.4,17.4,24.74," 6,106.3 "," 6,707.7 "," 7,256.4 "," 7,335.3 ",938.095,1212.618,1135.496,956.465
-SNPS US Equity,SYNOPSYS INC,BBB,Information Technology,Software,US," 63,907.57 ",-14.8,46.0,38.52," 4,204.2 "," 5,081.5 "," 5,318.0 "," 6,127.4 ",229.023,211.927,325.59,361.849
-VMI US Equity,VALMONT INDUSTRIES,BBB+,Industrials,Construction & Engineering,US," 5,576.30 ",-9.2,11.2,36.43," 3,501.6 "," 4,345.3 "," 4,174.6 "," 4,075.0 ",728.834,728.762,658.428,590.263
-CNQ CN Equity,CANADIAN NATURAL RESOURCES,BBB-,Energy,"Oil, Gas & Consumable Fuels",CA," 85,070.65 ",-7.5,6.9,29.48," 30,040.0 "," 42,305.0 "," 35,968.0 "," 35,488.0 ",1548,1815,2034,2793
-CTC/A CN Equity,CANADIAN TIRE CORP-CLASS A,BBB,Consumer Discretionary,Broadline Retail,CA," 8,420.02 ",-1.9,7.0,22.17," 16,292.1 "," 17,810.6 "," 16,656.5 "," 16,357.8 ",2480.6,3216.1,2693.7,2558.3
-MRU CN Equity,METRO INC/CN,BBB,Consumer Staples,Consumer Staples Distribution,CA," 22,497.06 ",13.7,12.3,16.74," 18,283.0 "," 18,888.9 "," 20,724.6 "," 21,219.9 ",1169,1331.1,1451,1508.3
-WN CN Equity,WESTON (GEORGE) LTD,BBB+,Consumer Staples,Consumer Staples Distribution,CA," 33,348.35 ",15.5,8.1,19.08," 53,748.0 "," 57,048.0 "," 60,124.0 "," 61,608.0 ",5166,5855,5829,6332
-BWA US Equity,BORGWARNER INC,BBB,Consumer Discretionary,Automobile Components,US," 5,810.70 ",-16.5,7.7,31.90," 11,803.0 "," 12,635.0 "," 14,198.0 "," 14,086.0 ",1534,1217,1313,1251
-EMN US Equity,EASTMAN CHEMICAL CO,BBB,Materials,Chemicals,US," 8,862.70 ",-15.2,8.3,28.07," 10,476.0 "," 10,580.0 "," 9,210.0 "," 9,382.0 ",1504,1894,1683,1988
-TSCO US Equity,TRACTOR SUPPLY COMPANY,BBB,Consumer Discretionary,Specialty Retail,US," 26,665.83 ",-5.1,17.9,28.03," 12,731.1 "," 14,204.7 "," 14,555.7 "," 14,883.2 ",2191.192,2709.597,2645.854,2840.177
-MLM US Equity,MARTIN MARIETTA MATERIALS,BBB+,Materials,Construction Materials,US," 29,951.09 ",-4.1,11.3,24.13," 5,414.0 "," 6,160.7 "," 6,777.2 "," 6,536.0 ",752.6,873.7,988.6,1115
-LNG US Equity,CHENIERE ENERGY INC,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 51,570.40 ",8.0,10.1,26.69," 15,864.0 "," 33,428.0 "," 20,394.0 "," 15,703.0 ",706,826,445,501
-DRI US Equity,DARDEN RESTAURANTS INC,BBB,Consumer Discretionary,"Hotels, Restaurants & Leisure",US," 23,430.99 ",8.9,16.0,27.42," 7,196.1 "," 9,630.0 "," 10,487.8 "," 11,390.0 ",190.8,270.6,287.9,290.5
-WAB US Equity,WABTEC CORP,BBB,Industrials,Machinery,US," 29,221.68 ",-9.7,15.9,25.58," 7,822.0 "," 8,362.0 "," 9,677.0 "," 10,387.0 ",1689,2034,2284,2314
-STLD US Equity,STEEL DYNAMICS INC,BBB,Materials,Metals & Mining,US," 17,731.29 ",4.1,8.2,34.38," 18,408.9 "," 22,260.8 "," 18,795.3 "," 17,540.4 ",3531.13,3129.964,2894.632,3113.733
-VLO US Equity,VALERO ENERGY CORP,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 34,609.54 ",-9.5,7.3,35.20," 113,977.0 "," 176,383.0 "," 144,766.0 "," 129,881.0 ",6265,6752,7583,7761
-PPL CN Equity,PEMBINA PIPELINE CORP,BBB,Energy,"Oil, Gas & Consumable Fuels",CA," 30,516.40 ",0.2,14.5,16.84," 8,781.0 "," 12,000.0 "," 6,647.0 "," 7,712.0 ",376,269,333,301
-FE US Equity,FIRSTENERGY CORP,BBB,Utilities,Electric Utilities,US," 24,250.84 ",6.7,12.2,20.36," 11,132.0 "," 12,459.0 "," 12,870.0 "," 13,472.0 ",260,421,512,549
-INGR US Equity,INGREDION INC,BBB,Consumer Staples,Food Products,US," 8,341.60 ",-4.6,9.0,22.67," 6,894.0 "," 7,946.0 "," 8,160.0 "," 7,430.0 ",1172,1597,1450,1187
-PAA US Equity,PLAINS ALL AMER PIPELINE LP,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 12,484.99 ",5.9,10.0,25.69," 42,078.0 "," 57,342.0 "," 48,712.0 "," 50,073.0 ",783,729,548,439
-SRE US Equity,SEMPRA,BBB+,Utilities,Multi-Utilities,US," 46,364.08 ",-18.2,18.5,29.07," 12,857.0 "," 14,439.0 "," 16,720.0 "," 13,185.0 ",389,403,482,559
-DVN US Equity,DEVON ENERGY CORP,BBB,Energy,"Oil, Gas & Consumable Fuels",US," 19,671.19 ",-6.8,4.0,35.34," 12,206.0 "," 19,169.0 "," 15,258.0 "," 15,940.0 ",0,201,249,294
-DTE US Equity,DTE ENERGY COMPANY,BBB+,Utilities,Multi-Utilities,US," 27,714.00 ",11.5,12.4,19.59," 14,964.0 "," 19,228.0 "," 12,745.0 "," 12,457.0 ",858,942,1054,1245
-TDY US Equity,TELEDYNE TECHNOLOGIES INC,BBB,Information Technology,"Electronic Equipment, Instrume",US," 21,647.73 ",-0.4,18.6,24.56," 4,614.3 "," 5,458.6 "," 5,635.5 "," 5,670.0 ",752.9,890.7,917.7,914.4
-MDLZ US Equity,MONDELEZ INTERNATIONAL INC-A,BBB,Consumer Staples,Food Products,US," 87,215.42 ",13.5,12.6,19.49," 28,720.0 "," 31,496.0 "," 36,016.0 "," 36,441.0 ",2708,3381,3615,3827
-ZBH US Equity,ZIMMER BIOMET HOLDINGS INC,BBB,Health Care,Health Care Equipment & Suppli,US," 19,372.62 ",-7.1,11.8,22.28," 6,827.3 "," 6,939.9 "," 7,394.2 "," 7,678.6 ",2148,2147.2,2385.2,2235.3
-CRH US Equity,CRH PLC,BBB+,Materials,Construction Materials,US," 57,336.73 ",-8.0,11.2,31.22," 29,206.0 "," 32,723.0 "," 34,949.0 "," 35,572.0 ",3611,4194,4291,4755
-PSX US Equity,PHILLIPS 66,BBB+,Energy,"Oil, Gas & Consumable Fuels",US," 40,377.03 ",-12.2,16.1,32.04," 111,476.0 "," 169,990.0 "," 147,399.0 "," 143,153.0 ",3394,3276,3750,3995
-DD US Equity,DUPONT DE NEMOURS INC,BBB+,Materials,Chemicals,US," 25,168.50 ",-20.7,13.1,31.96," 12,566.0 "," 13,017.0 "," 12,068.0 "," 12,386.0 ",2862,2329,2147,2130
-CI US Equity,THE CIGNA GROUP,A-,Health Care,Health Care Providers & Servic,US," 89,500.92 ",20.1,8.2,28.91," 174,078.0 "," 180,516.0 "," 195,265.0 "," 247,121.0 ",3722,4777,5645,6692
-CARR US Equity,CARRIER GLOBAL CORP,BBB+,Industrials,Building Products,US," 51,752.86 ",-12.2,10.3,31.11," 20,613.0 "," 20,421.0 "," 18,951.0 "," 22,486.0 ",1970,2640,1823,2299
-BG US Equity,BUNGE GLOBAL SA,BBB+,Consumer Staples,Food Products,US," 10,578.12 ",2.5,7.1,26.46," 59,152.0 "," 67,232.0 "," 59,540.0 "," 53,108.0 ",8431,8408,7105,6491
-VZ US Equity,VERIZON COMMUNICATIONS INC,BBB+,Communication Services,Diversified Telecommunication,US," 188,931.60 ",13.9,7.2,22.47," 133,613.0 "," 136,835.0 "," 133,974.0 "," 134,788.0 ",3055,2388,2057,2247
-BBY US Equity,BEST BUY CO INC,BBB+,Consumer Discretionary,Specialty Retail,US," 13,098.58 ",-26.9,9.7,40.54," 47,262.0 "," 51,761.0 "," 46,298.0 "," 43,452.0 ",5612,5965,5140,4958
-CDNS US Equity,CADENCE DESIGN SYS INC,BBB+,Information Technology,Software,US," 71,381.88 ",-13.4,53.2,37.63," 2,988.2 "," 3,561.7 "," 4,090.0 "," 4,641.3 ",115.721,128.005,181.661,257.711
-ED US Equity,CONSOLIDATED EDISON INC,A-,Utilities,Multi-Utilities,US," 40,378.45 ",26.8,11.7,18.86," 13,676.0 "," 15,670.0 "," 14,663.0 "," 15,256.0 ",437,492,469,485
-CSX US Equity,CSX CORP,BBB+,Industrials,Ground Transportation,US," 51,998.15 ",-13.9,11.1,23.03," 12,522.0 "," 14,853.0 "," 14,657.0 "," 14,540.0 ",339,341,440,414
-D US Equity,DOMINION ENERGY INC,BBB+,Utilities,Multi-Utilities,US," 45,312.28 ",-0.1,15.4,24.86," 13,964.0 "," 13,938.0 "," 14,393.0 "," 14,459.0 ",1631,1528,1698,1764
-NEE US Equity,NEXTERA ENERGY INC,A-,Utilities,Electric Utilities,US," 136,504.49 ",-6.8,18.1,27.95," 17,069.0 "," 20,956.0 "," 28,114.0 "," 24,753.0 ",1561,1934,2106,2214
-HUBB US Equity,HUBBELL INC,BBB+,Industrials,Electrical Equipment,US," 18,159.76 ",-18.8,18.3,32.05," 4,194.1 "," 4,947.9 "," 5,372.9 "," 5,628.5 ",662.1,740.7,832.9,841.8
-MMM US Equity,3M CO,BBB+,Industrials,Industrial Conglomerates,US," 70,224.64 ",1.4,11.6,32.80," 35,355.0 "," 34,229.0 "," 32,681.0 "," 24,575.0 ",4985,5372,4822,3698
-NEM US Equity,NEWMONT CORP,BBB+,Materials,Metals & Mining,US," 62,089.34 ",48.9,6.7,38.12," 12,222.0 "," 11,915.0 "," 11,812.0 "," 18,682.0 ",1787,1753,2642,2184
-NSC US Equity,NORFOLK SOUTHERN CORP,BBB+,Industrials,Ground Transportation,US," 49,736.01 ",-5.8,12.7,27.94," 11,142.0 "," 12,745.0 "," 12,156.0 "," 12,123.0 ",218,253,264,277
-NOC US Equity,NORTHROP GRUMMAN CORP,BBB+,Industrials,Aerospace & Defense,US," 77,891.11 ",15.7,14.3,20.93," 35,667.0 "," 36,602.0 "," 39,290.0 "," 41,033.0 ",811,978,1109,1455
-OGE US Equity,OGE ENERGY CORP,BBB+,Utilities,Electric Utilities,US," 9,079.93 ",11.6,10.8,18.96," 3,653.7 "," 3,375.7 "," 2,674.3 "," 2,985.3 ",158.5,289.3,412.8,377.7
-PH US Equity,PARKER HANNIFIN CORP,BBB+,Industrials,Machinery,US," 72,237.08 ",-11.6,18.7,31.11," 14,347.6 "," 15,861.6 "," 19,065.2 "," 19,929.6 ",2090.642,2214.553,2907.879,2786.8
-PPL US Equity,PPL CORP,A-,Utilities,Electric Utilities,US," 26,398.92 ",10.9,13.1,17.81," 5,783.0 "," 7,902.0 "," 8,312.0 "," 8,462.0 ",322,443,505,511
-EXC US Equity,EXELON CORP,A-,Utilities,Electric Utilities,US," 47,710.65 ",26.7,10.6,21.36," 17,938.0 "," 19,078.0 "," 21,727.0 "," 23,028.0 ",581,755,801,853
-PPG US Equity,PPG INDUSTRIES INC,BBB+,Materials,Chemicals,US," 22,708.84 ",-15.7,11.5,24.16," 16,802.0 "," 17,652.0 "," 16,242.0 "," 15,845.0 ",2171,2272,1934,1846
-SO US Equity,SOUTHERN CO/THE,A-,Utilities,Electric Utilities,US," 101,008.78 ",12.5,12.8,18.52," 23,113.0 "," 29,279.0 "," 25,253.0 "," 26,724.0 ",2355,2677,3352,3369
-SWK US Equity,STANLEY BLACK & DECKER INC,A-,Industrials,Machinery,US," 8,841.09 ",-28.0,16.3,38.30," 15,281.3 "," 16,947.4 "," 15,781.1 "," 15,365.7 ",5446.8,5861.1,4738.6,4536.4
-RTX US Equity,RTX CORP,BBB+,Industrials,Aerospace & Defense,US," 172,079.74 ",12.0,17.8,21.53," 64,388.0 "," 67,074.0 "," 68,920.0 "," 80,738.0 ",9178,10617,11777,12768
-WEC US Equity,WEC ENERGY GROUP INC,A-,Utilities,Multi-Utilities,US," 34,586.08 ",16.3,14.4,18.74," 8,316.0 "," 9,597.4 "," 8,893.0 "," 8,599.9 ",635.8,807.1,775.2,813.2
-SYK US Equity,STRYKER CORP,BBB+,Health Care,Health Care Equipment & Suppli,US," 132,255.18 ",-3.5,29.2,21.30," 17,108.0 "," 18,449.0 "," 20,498.0 "," 22,595.0 ",3314,3995,4843,4774
-DHI US Equity,DR HORTON INC,BBB+,Consumer Discretionary,Household Durables,US," 38,208.60 ",-13.0,8.1,34.00," 27,774.2 "," 33,480.0 "," 35,460.4 "," 36,801.4 ",16479.1,21655.7,22373.3,24903.2
-MHK US Equity,MOHAWK INDUSTRIES INC,BBB+,Consumer Discretionary,Household Durables,US," 6,419.73 ",-13.8,7.1,40.21," 11,200.6 "," 11,737.1 "," 11,135.1 "," 10,836.9 ",2391.672,2793.765,2551.853,2513.6
-NVR US Equity,NVR INC,BBB+,Consumer Discretionary,Household Durables,US," 21,347.35 ",-12.1,10.6,25.61," 8,951.0 "," 10,526.4 "," 9,518.2 "," 10,524.5 ",1947.366,1788.275,1950.15,2058.707
-REGN US Equity,REGENERON PHARMACEUTICALS,BBB+,Health Care,Biotechnology,US," 61,254.16 ",-20.8,14.1,25.65," 16,071.7 "," 12,172.9 "," 13,117.2 "," 14,202.0 ",1951.3,2401.9,2580.5,3087.3
-GIB/A CN Equity,CGI INC,BBB+,Information Technology,IT Services,CA," 33,099.15 ",-7.2,12.8,20.20," 12,126.8 "," 12,867.2 "," 14,296.4 "," 14,676.2 ",1045.058,1191.844,1143.685,1208.095
-FTT CN Equity,FINNING INTERNATIONAL INC,BBB+,Industrials,Trading Companies & Distributo,CA," 5,148.17 ",0.9,6.1,32.46," 7,294.0 "," 9,279.0 "," 10,527.0 "," 11,206.0 ",1687,2461,2844,2646
-FTS CN Equity,FORTIS INC,A-,Utilities,Electric Utilities,CA," 33,307.97 ",12.8,13.0,14.46," 9,448.0 "," 11,043.0 "," 11,517.0 "," 11,508.0 ",478,661,566,685
-ENB CN Equity,ENBRIDGE INC,BBB+,Energy,"Oil, Gas & Consumable Fuels",CA," 136,893.97 ",4.6,16.4,15.52," 47,071.0 "," 53,309.0 "," 43,649.0 "," 53,473.0 ",1670,2255,1479,1488
-L CN Equity,LOBLAW COMPANIES LTD,BBB+,Consumer Staples,Consumer Staples Distribution,CA," 64,188.33 ",13.3,10.9,18.07," 53,170.0 "," 56,504.0 "," 59,529.0 "," 61,014.0 ",5166,5855,5820,6330
-RS US Equity,RELIANCE INC,BBB+,Materials,Metals & Mining,US," 14,683.04 ",3.5,10.1,28.19," 14,093.3 "," 17,025.0 "," 14,805.9 "," 13,835.0 ",2065,1995.3,2043.2,2026.8
-SCCO US Equity,SOUTHERN COPPER CORP,BBB+,Materials,Metals & Mining,MX," 68,678.74 ",-3.9,11.5,39.89," 10,934.1 "," 10,047.9 "," 9,895.8 "," 11,433.4 ",972.9,1013.9,1016.9,1048.9
-MCK US Equity,MCKESSON CORP,BBB+,Health Care,Health Care Providers & Servic,US," 87,362.51 ",22.4,17.2,25.57," 238,228.0 "," 263,966.0 "," 276,711.0 "," 308,951.0 ",19246,18702,19691,21139
-COR US Equity,CENCORA INC,BBB+,Health Care,Health Care Providers & Servic,US," 55,545.15 ",27.9,15.3,18.41," 213,988.8 "," 238,587.0 "," 262,173.4 "," 293,958.6 ",15368.352,15556.394,17454.768,18998.833
-AME US Equity,AMETEK INC,BBB+,Industrials,Electrical Equipment,US," 36,414.17 ",-12.3,19.4,23.02," 5,546.5 "," 6,150.5 "," 6,597.0 "," 6,941.2 ",769.175,1044.284,1132.471,1021.713
-AEE US Equity,AMEREN CORPORATION,BBB+,Utilities,Multi-Utilities,US," 26,651.05 ",11.5,13.4,20.52," 6,394.0 "," 7,957.0 "," 7,500.0 "," 7,623.0 ",592,667,733,762
-A US Equity,AGILENT TECHNOLOGIES INC,BBB+,Health Care,Life Sciences Tools & Services,US," 29,217.33 ",-23.6,25.8,29.52," 6,319.0 "," 6,848.0 "," 6,833.0 "," 6,510.0 ",830,1038,1031,972
-XEL US Equity,XCEL ENERGY INC,BBB+,Utilities,Electric Utilities,US," 40,395.62 ",5.6,12.4,22.33," 13,431.0 "," 15,310.0 "," 14,206.0 "," 13,441.0 ",631,803,711,666
-PM US Equity,PHILIP MORRIS INTERNATIONAL,A-,Consumer Staples,Tobacco,US," 254,034.44 ",36.8,14.9,22.71," 31,405.0 "," 31,762.0 "," 35,174.0 "," 37,878.0 ",8720,9886,10774,9453
-ABBV US Equity,ABBVIE INC,A-,Health Care,Biotechnology,US," 306,015.55 ",-0.8,21.5,25.20," 56,197.0 "," 58,054.0 "," 54,318.0 "," 56,334.0 ",3128,3579,4099,4181
-CTVA US Equity,CORTEVA INC,A-,Materials,Chemicals,US," 40,803.29 ",5.2,14.4,29.64," 15,655.0 "," 17,455.0 "," 17,226.0 "," 16,908.0 ",5180,6811,6899,5432
-ADI US Equity,ANALOG DEVICES INC,A-,Information Technology,Semiconductors & Semiconductor,US," 87,425.77 ",-16.7,27.3,38.12," 7,318.3 "," 12,014.0 "," 12,305.5 "," 9,427.2 ",1200.61,1399.914,1642.214,1447.687
-BSX US Equity,BOSTON SCIENTIFIC CORP,A-,Health Care,Health Care Equipment & Suppli,US," 140,689.16 ",6.5,36.9,21.19," 11,888.0 "," 12,682.0 "," 14,240.0 "," 16,747.0 ",1610,1867,2485,2810
-DIS US Equity,WALT DISNEY CO/THE,A,Communication Services,Entertainment,US," 153,318.57 ",-23.8,17.6,29.16," 67,418.0 "," 82,722.0 "," 88,898.0 "," 91,361.0 ",1331,1742,1963,2022
-ECL US Equity,ECOLAB INC,A-,Materials,Chemicals,US," 67,711.60 ",2.1,19.7,20.09," 12,733.1 "," 14,187.8 "," 15,320.2 "," 15,741.4 ",1491.8,1792.8,1497.2,1464.9
-GE US Equity,GENERAL ELECTRIC,A-,Industrials,Aerospace & Defense,US," 193,893.35 ",9.2,28.7,32.73," 74,196.0 "," 76,555.0 "," 35,348.0 "," 38,702.0 ",15847,17403,8284,9763
-IBM US Equity,INTL BUSINESS MACHINES CORP,A-,Information Technology,IT Services,US," 221,440.00 ",9.4,19.0,26.44," 57,351.0 "," 60,530.0 "," 61,860.0 "," 62,753.0 ",1650,1552,1161,1289
-NUE US Equity,NUCOR CORP,A-,Materials,Metals & Mining,US," 25,497.45 ",-4.9,7.5,35.94," 36,483.9 "," 41,512.5 "," 34,713.5 "," 30,734.0 ",6011.182,5453.531,5577.758,5106
-COP US Equity,CONOCOPHILLIPS,A-,Energy,"Oil, Gas & Consumable Fuels",US," 112,485.43 ",-9.5,#N/A N/A,29.37," 45,828.0 "," 78,494.0 "," 56,141.0 "," 54,745.0 ",1208,1219,1398,1809
-SNA US Equity,SNAP-ON INC,A-,Industrials,Machinery,US," 15,971.77 ",-9.5,12.1,25.29," 4,601.7 "," 4,842.5 "," 5,108.3 "," 5,108.4 ",803.8,1033.1,1005.9,943.4
-TMO US Equity,THERMO FISHER SCIENTIFIC INC,A-,Health Care,Life Sciences Tools & Services,US," 161,377.95 ",-17.8,21.6,24.42," 39,211.0 "," 44,915.0 "," 42,857.0 "," 42,879.0 ",5051,5634,5088,4978
-UNP US Equity,UNION PACIFIC CORP,A-,Industrials,Ground Transportation,US," 132,005.82 ",-2.9,14.0,21.59," 21,804.0 "," 24,875.0 "," 24,119.0 "," 24,250.0 ",621,741,743,769
-KLAC US Equity,KLA CORP,A-,Information Technology,Semiconductors & Semiconductor,US," 84,307.34 ",0.9,20.0,45.52," 6,918.7 "," 9,211.9 "," 10,496.1 "," 9,812.2 ",1575.38,2146.889,2876.784,3034.781
-MG CN Equity,MAGNA INTERNATIONAL INC,A-,Consumer Discretionary,Automobile Components,CA," 12,566.13 ",-24.8,4.5,31.53," 36,242.0 "," 37,840.0 "," 42,797.0 "," 42,836.0 ",3969,4180,4606,4151
-LMT US Equity,LOCKHEED MARTIN CORP,A-,Industrials,Aerospace & Defense,US," 108,860.66 ",-3.8,15.5,21.01," 67,044.0 "," 65,984.0 "," 67,571.0 "," 71,043.0 ",2981,3088,3132,3474
-EL US Equity,ESTEE LAUDER COMPANIES-CL A,A-,Consumer Staples,Personal Care Products,US," 19,593.70 ",-27.0,78.7,50.39," 16,215.0 "," 17,737.0 "," 15,910.0 "," 15,608.0 ",2505,2920,2979,2175
-CNR CN Equity,CANADIAN NATL RAILWAY CO,A-,Industrials,Ground Transportation,CA," 86,286.20 ",-5.3,13.8,19.72," 14,477.0 "," 17,107.0 "," 16,828.0 "," 17,046.0 ",589,692,699,720
-ROK US Equity,ROCKWELL AUTOMATION INC,A-,Industrials,Electrical Equipment,US," 26,265.72 ",-18.4,24.4,35.73," 6,997.4 "," 7,760.4 "," 9,058.0 "," 8,264.2 ",798.1,1054.2,1404.9,1293.1
-APH US Equity,AMPHENOL CORP-CL A,A-,Information Technology,"Electronic Equipment, Instrume",US," 78,838.62 ",-6.1,23.6,32.51," 10,876.3 "," 12,623.0 "," 12,554.7 "," 15,222.7 ",1894.1,2093.6,2167.1,2545.7
-BN CN Equity,BROOKFIELD CORP,A-,Financials,Capital Markets,CA," 113,315.07 ",-16.6,15.7,30.59," 75,731.0 "," 92,769.0 "," 95,924.0 "," 86,006.0 ",11415,12843,11412,8458
-KVUE US Equity,KENVUE INC,A,Consumer Staples,Personal Care Products,US," 44,878.19 ",10.6,19.8,26.26," 15,054.0 "," 14,950.0 "," 15,444.0 "," 15,455.0 ",1702,2226,1851,1591
-LIN US Equity,LINDE PLC,A,Materials,Chemicals,US," 213,812.80 ",8.3,17.8,18.33," 30,793.0 "," 33,364.0 "," 32,854.0 "," 33,005.0 ",1733,1978,2115,1946
-APD US Equity,AIR PRODUCTS & CHEMICALS INC,A,Materials,Chemicals,US," 58,488.85 ",-8.2,13.5,29.35," 10,323.0 "," 12,698.6 "," 12,600.0 "," 12,100.6 ",453.9,514.2,651.8,766
-HON US Equity,HONEYWELL INTERNATIONAL INC,A,Industrials,Industrial Conglomerates,US," 126,464.32 ",-12.5,19.2,21.66," 34,392.0 "," 35,466.0 "," 36,662.0 "," 38,498.0 ",5138,5538,6178,6442
-ADM US Equity,ARCHER-DANIELS-MIDLAND CO,A,Consumer Staples,Food Products,US," 22,961.04 ",-4.3,13.2,35.56," 85,249.0 "," 101,556.0 "," 93,935.0 "," 85,530.0 ",14481,14771,11957,11572
-CAT US Equity,CATERPILLAR INC,A,Industrials,Machinery,US," 140,631.50 ",-18.2,11.5,29.31," 50,971.0 "," 59,427.0 "," 67,060.0 "," 64,809.0 ",14038,16270,16565,16827
-TGT US Equity,TARGET CORP,A,Consumer Staples,Consumer Staples Distribution,US," 42,418.72 ",-30.5,8.5,41.11," 93,561.0 "," 106,005.0 "," 109,120.0 "," 107,412.0 ",10653,13902,13499,11886
-DE US Equity,DEERE & CO,A,Industrials,Machinery,US," 122,698.09 ",7.1,10.0,26.90," 44,024.0 "," 52,577.0 "," 61,251.0 "," 51,716.0 ",6781,8495,8160,7093
-EMR US Equity,EMERSON ELECTRIC CO,A,Industrials,Electrical Equipment,US," 56,147.52 ",-19.3,18.0,29.40," 12,932.0 "," 13,804.0 "," 15,165.0 "," 17,492.0 ",2050,1742,2006,2180
-HSY US Equity,HERSHEY CO/THE,A,Consumer Staples,Food Products,US," 33,744.97 ",-0.8,11.4,25.92," 8,971.3 "," 10,419.3 "," 11,165.0 "," 11,202.3 ",988.511,1173.119,1340.996,1254.094
-HD US Equity,HOME DEPOT INC,A,Consumer Discretionary,Specialty Retail,US," 352,904.13 ",-8.1,18.6,22.66," 132,110.0 "," 151,157.0 "," 157,403.0 "," 152,669.0 ",16627,22068,24886,20976
-PFE US Equity,PFIZER INC,A,Health Care,Pharmaceuticals,US," 125,566.01 ",-15.2,10.2,25.05," 81,288.0 "," 100,330.0 "," 59,554.0 "," 63,627.0 ",9059,8981,10190,10851
-SLB US Equity,SCHLUMBERGER LTD,A,Energy,Energy Equipment & Services,US," 47,744.52 ",-7.8,7.6,33.08," 22,929.0 "," 28,091.0 "," 33,135.0 "," 36,289.0 ",3272,3999,4387,4375
-QCOM US Equity,QUALCOMM INC,A,Information Technology,Semiconductors & Semiconductor,US," 151,145.96 ",-10.6,14.0,40.02," 33,566.0 "," 44,200.0 "," 35,820.0 "," 38,962.0 ",3228,6341,6422,6423
-LLY US Equity,ELI LILLY & CO,A+,Health Care,Pharmaceuticals,US," 796,272.97 ",9.0,52.0,33.34," 28,318.4 "," 28,541.4 "," 34,124.1 "," 45,042.7 ",3886,4309.7,5772.8,7589.2
-PCAR US Equity,PACCAR INC,A+,Industrials,Machinery,US," 46,283.50 ",-15.0,8.5,28.05," 23,522.3 "," 28,819.7 "," 35,127.4 "," 33,663.8 ",1976,2198.8,2576.7,2367.1
-CVX US Equity,CHEVRON CORP,AA-,Energy,"Oil, Gas & Consumable Fuels",US," 240,820.18 ",-3.8,7.7,23.35," 155,606.0 "," 235,717.0 "," 196,913.0 "," 193,414.0 ",6795,8247,8612,9074
-XOM US Equity,EXXON MOBIL CORP,AA-,Energy,"Oil, Gas & Consumable Fuels",US," 462,460.40 ",0.3,7.8,22.55," 276,692.0 "," 398,675.0 "," 334,697.0 "," 339,247.0 ",18780,24435,25120,23524
-PG US Equity,PROCTER & GAMBLE CO/THE,AA-,Consumer Staples,Household Products,US," 400,102.07 ",3.0,18.4,17.63," 76,118.0 "," 80,187.0 "," 82,006.0 "," 84,039.0 ",5983,6924,7073,7016
-IMO CN Equity,IMPERIAL OIL LTD,AA-,Energy,"Oil, Gas & Consumable Fuels",CA," 44,984.30 ",0.5,5.9,29.75," 35,580.0 "," 57,234.0 "," 48,300.0 "," 48,824.0 ",1791,2268,2952,2617
-AMZN US Equity,AMAZON.COM INC,AA,Consumer Discretionary,Broadline Retail,US," 1,831,800.15 ",-21.3,17.8,31.16," 469,822.0 "," 513,983.0 "," 574,785.0 "," 637,959.0 ",32640,34405,33318,34214
-BRK/A US Equity,BERKSHIRE HATHAWAY INC-CL A,AA,Financials,Financial Services,US," 1,118,779.77 ",14.4,3.6,17.37," 354,745.0 "," 234,121.0 "," 439,337.0 "," 424,232.0 ",20954,25366,24159,24008
-WMT US Equity,WALMART INC,AA,Consumer Staples,Consumer Staples Distribution,US," 747,330.71 ",3.5,20.0,23.41," 559,151.0 "," 572,754.0 "," 611,289.0 "," 648,125.0 ",44949,56511,56576,54892
-JNJ US Equity,JOHNSON & JOHNSON,AAA,Health Care,Pharmaceuticals,US," 379,478.72 ",9.8,12.8,17.96," 93,775.0 "," 79,990.0 "," 85,159.0 "," 88,821.0 ",10387,10268,11181,12444
-MSFT US Equity,MICROSOFT CORP,AAA,Information Technology,Software,US," 2,734,069.99 ",-12.6,21.3,23.16," 168,088.0 "," 198,270.0 "," 211,915.0 "," 245,122.0 ",2636,3742,2500,1246
+"SJM US Equity,JM SMUCKER CO/THE,BBB,Consumer Staples,Food Products,US,"" 12,391.15 "",6.9,21.8,24.48,"" 8,002.7 "","" 7,998.9 "","" 8,529.2 "","" 8,178.7 "",959.9,1089.3,1009.8,1038.9"
+"DKS US Equity,DICK'S SPORTING GOODS INC,BBB,Consumer Discretionary,Specialty Retail,US,"" 14,816.42 "",-18.4,11.8,41.55,"" 9,584.0 "","" 12,293.4 "","" 12,368.2 "","" 12,984.4 "",1953.568,2297.609,2830.917,2848.797"
+"LDOS US Equity,LEIDOS HOLDINGS INC,BBB,Industrials,Professional Services,US,"" 17,875.58 "",-2.9,11.3,27.20,"" 13,737.0 "","" 14,396.0 "","" 15,438.0 "","" 16,662.0 "",274,287,310,315"
+"FTNT US Equity,FORTINET INC,BBB+,Information Technology,Software,US,"" 73,921.48 "",1.7,36.1,38.09,"" 3,342.2 "","" 4,417.4 "","" 5,304.8 "","" 5,955.8 "",175.8,264.6,484.8,315.5"
+"KDP US Equity,KEURIG DR PEPPER INC,BBB,Consumer Staples,Beverages,US,"" 48,028.98 "",11.8,17.3,19.28,"" 12,683.0 "","" 14,057.0 "","" 14,814.0 "","" 15,351.0 "",894,1314,1142,1299"
+"DG US Equity,DOLLAR GENERAL CORP,BBB,Consumer Staples,Consumer Staples Distribution,US,"" 20,470.47 "",24.6,7.0,46.98,"" 33,746.8 "","" 34,220.4 "","" 37,844.9 "","" 38,691.6 "",5247.477,5614.325,6760.733,6994.266"
+"HCA US Equity,HCA HEALTHCARE INC,BBB-,Health Care,Health Care Providers & Servic,US,"" 82,480.57 "",11.9,9.1,26.75,"" 58,752.0 "","" 60,233.0 "","" 64,968.0 "","" 70,603.0 "",1986,2068,2021,1738"
+"XYL US Equity,XYLEM INC,BBB,Industrials,Machinery,US,"" 26,870.65 "",-4.5,19.0,23.54,"" 5,195.0 "","" 5,522.0 "","" 7,364.0 "","" 8,562.0 "",700,799,1018,996"
+"ZTS US Equity,ZOETIS INC,BBB,Health Care,Pharmaceuticals,US,"" 66,333.58 "",-8.2,19.9,26.39,"" 7,776.0 "","" 8,080.0 "","" 8,544.0 "","" 9,256.0 "",1923,2345,2564,2306"
+"OGS US Equity,ONE GAS INC,A-,Utilities,Gas Utilities,US,"" 4,643.91 "",12.9,10.3,22.48,"" 1,808.6 "","" 2,578.0 "","" 2,372.0 "","" 2,083.6 "",234.538,340.078,264.746,252.846"
+"FTV US Equity,FORTIVE CORP,BBB,Industrials,Machinery,US,"" 22,268.59 "",-12.7,16.0,24.70,"" 5,254.7 "","" 5,825.7 "","" 6,065.3 "","" 6,231.8 "",512.7,536.7,536.9,544.8"
+"BKR US Equity,BAKER HUGHES CO,A,Energy,Energy Equipment & Services,US,"" 38,534.50 "",-4.7,9.8,32.65,"" 20,502.0 "","" 21,156.0 "","" 25,506.0 "","" 27,829.0 "",3979,4587,5094,4954"
+"EVRG US Equity,EVERGY INC,BBB+,Utilities,Electric Utilities,US,"" 15,707.73 "",12.2,10.6,17.50,"" 5,586.7 "","" 5,859.1 "","" 5,508.2 "","" 5,847.3 "",566.7,672.9,776.2,867.4"
+"FOXA US Equity,FOX CORP - CLASS A,BBB,Communication Services,Media,US,"" 20,949.96 "",-0.8,8.4,24.94,"" 12,909.0 "","" 13,974.0 "","" 14,913.0 "","" 13,980.0 "",729,791,543,626"
+"OTIS US Equity,OTIS WORLDWIDE CORP,BBB,Industrials,Machinery,US,"" 38,977.39 "",6.8,19.8,20.21,"" 14,298.0 "","" 13,685.0 "","" 14,209.0 "","" 14,261.0 "",622,617,612,557"
+"VLTO US Equity,VERALTO CORP,BBB,Industrials,Commercial Services & Supplies,US,"" 22,210.55 "",-12.0,20.9,22.88,"" 4,700.0 "","" 4,870.0 "","" 5,021.0 "","" 5,193.0 "",#N/A N/A,345,297,288"
+"LH US Equity,LABCORP HOLDINGS INC,BBB,Health Care,Health Care Providers & Servic,US,"" 18,166.07 "",-5.0,14.4,22.29,"" 16,120.9 "","" 14,876.8 "","" 12,161.6 "","" 13,008.9 "",401.4,470.6,474.6,493.2"
+"ABT US Equity,ABBOTT LABORATORIES,AA-,Health Care,Health Care Equipment & Suppli,US,"" 227,161.68 "",17.0,20.2,20.04,"" 43,075.0 "","" 43,653.0 "","" 40,109.0 "","" 41,950.0 "",5157,6173,6570,6194"
+"AMD US Equity,ADVANCED MICRO DEVICES,A,Information Technology,Semiconductors & Semiconductor,US,"" 142,155.42 "",-27.6,40.3,52.69,"" 16,434.0 "","" 23,601.0 "","" 22,680.0 "","" 25,785.0 "",1955,3771,4351,5734"
+"AVY US Equity,AVERY DENNISON CORP,BBB,Materials,Containers & Packaging,US,"" 13,491.34 "",-8.3,13.3,20.10,"" 8,408.3 "","" 9,039.3 "","" 8,364.3 "","" 8,755.7 "",907.2,1009.9,920.7,978.1"
+"BAX US Equity,BAXTER INTERNATIONAL INC,BBB,Health Care,Health Care Equipment & Suppli,US,"" 14,818.38 "",-0.4,37.4,30.90,"" 12,784.0 "","" 14,506.0 "","" 10,360.0 "","" 10,636.0 "",2453,2718,1918,2046"
+"BMY US Equity,BRISTOL-MYERS SQUIBB CO,A,Health Care,Pharmaceuticals,US,"" 100,171.39 "",-11.0,72.6,28.49,"" 46,385.0 "","" 46,159.0 "","" 45,006.0 "","" 48,300.0 "",2095,2339,2662,2557"
+"BF/B US Equity,BROWN-FORMAN CORP-CLASS B,A-,Consumer Staples,Beverages,US,"" 15,939.36 "",-10.5,13.1,31.60,"" 3,461.0 "","" 3,933.0 "","" 4,228.0 "","" 4,178.0 "",1751,1818,2283,2556"
+"CBT US Equity,CABOT CORP,BBB,Materials,Chemicals,US,"" 4,247.17 "",-13.8,7.8,32.15,"" 3,409.0 "","" 4,321.0 "","" 3,931.0 "","" 3,994.0 "",523,664,585,552"
+"CSL US Equity,CARLISLE COS INC,BBB,Industrials,Building Products,US,"" 15,596.58 "",-4.0,13.4,29.53,"" 4,810.3 "","" 5,449.4 "","" 4,586.9 "","" 5,003.6 "",605.1,518,361.7,472.7"
+"CHD US Equity,CHURCH & DWIGHT CO INC,BBB+,Consumer Staples,Household Products,US,"" 25,932.51 "",0.9,25.0,18.49,"" 5,190.1 "","" 5,375.6 "","" 5,867.9 "","" 6,107.1 "",535.4,646.6,613.3,613.3"
+"CLX US Equity,CLOROX COMPANY,BBB+,Consumer Staples,Household Products,US,"" 17,219.48 "",-13.3,24.7,21.58,"" 7,341.0 "","" 7,107.0 "","" 7,389.0 "","" 7,093.0 "",752,755,696,637"
+"KO US Equity,COCA-COLA CO/THE,A+,Consumer Staples,Beverages,US,"" 314,160.38 "",18.1,27.2,15.30,"" 38,655.0 "","" 43,004.0 "","" 45,754.0 "","" 47,061.0 "",3414,4233,4424,4728"
+"CL US Equity,COLGATE-PALMOLIVE CO,A+,Consumer Staples,Household Products,US,"" 77,458.56 "",6.2,16.7,18.52,"" 17,421.0 "","" 17,967.0 "","" 19,457.0 "","" 20,101.0 "",1692,2074,1934,1987"
+"GLW US Equity,CORNING INC,BBB+,Information Technology,""Electronic Equipment, Instrume"",US,"" 35,573.38 "",-12.1,18.2,31.09,"" 14,082.0 "","" 14,189.0 "","" 12,588.0 "","" 13,118.0 "",2481,2904,2666,2724"
+"CMI US Equity,CUMMINS INC,A,Industrials,Machinery,US,"" 38,817.24 "",-18.8,11.3,28.22,"" 24,021.0 "","" 28,074.0 "","" 34,065.0 "","" 34,102.0 "",4355,5603,5677,5742"
+"DHR US Equity,DANAHER CORP,A-,Health Care,Life Sciences Tools & Services,US,"" 133,667.58 "",-18.5,25.0,27.30,"" 29,453.0 "","" 26,643.0 "","" 23,890.0 "","" 23,875.0 "",2767,2765,2594,2330"
+"DOV US Equity,DOVER CORP,BBB+,Industrials,Machinery,US,"" 22,077.99 "",-13.9,17.5,25.31,"" 7,907.1 "","" 7,844.2 "","" 7,684.5 "","" 7,745.9 "",1191.095,1366.608,1144.089,1144.838"
+"EOG US Equity,EOG RESOURCES INC,A-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 60,945.66 "",-8.4,5.5,27.24,"" 19,139.0 "","" 26,109.0 "","" 23,161.0 "","" 23,692.0 "",584,1058,1275,985"
+"FDX US Equity,FEDEX CORP,BBB,Industrials,Air Freight & Logistics,US,"" 49,728.76 "",-25.8,10.2,34.91,"" 83,959.0 "","" 93,512.0 "","" 90,155.0 "","" 87,693.0 "",587,637,604,614"
+"GD US Equity,GENERAL DYNAMICS CORP,A,Industrials,Aerospace & Defense,US,"" 74,094.85 "",5.9,14.1,20.46,"" 38,469.0 "","" 39,407.0 "","" 42,272.0 "","" 47,716.0 "",5340,6322,8578,9724"
+"GIS US Equity,GENERAL MILLS INC,BBB,Consumer Staples,Food Products,US,"" 31,492.51 "",-7.9,11.5,21.70,"" 18,127.0 "","" 18,992.8 "","" 20,094.2 "","" 19,857.2 "",1820.5,1867.3,2172,1898.2"
+"GWW US Equity,WW GRAINGER INC,A+,Industrials,Trading Companies & Distributo,US,"" 48,301.01 "",-4.7,18.6,22.15,"" 13,022.0 "","" 15,228.0 "","" 16,478.0 "","" 17,168.0 "",1870,2253,2266,2306"
+"HAL US Equity,HALLIBURTON CO,BBB+,Energy,Energy Equipment & Services,US,"" 19,420.43 "",-16.6,6.1,34.98,"" 15,295.0 "","" 20,297.0 "","" 23,018.0 "","" 22,944.0 "",2361,2923,3226,3040"
+"HRL US Equity,HORMEL FOODS CORP,A-,Consumer Staples,Food Products,US,"" 16,816.32 "",-0.6,14.9,26.07,"" 11,386.2 "","" 12,458.8 "","" 12,110.0 "","" 11,920.8 "",1369.198,1716.059,1680.406,1576.299"
+"ITW US Equity,ILLINOIS TOOL WORKS,A+,Industrials,Machinery,US,"" 67,720.60 "",-8.4,17.5,19.53,"" 14,455.0 "","" 15,932.0 "","" 16,107.0 "","" 15,898.0 "",1694,2054,1707,1605"
+"IP US Equity,INTERNATIONAL PAPER CO,BBB,Materials,Containers & Packaging,US,"" 24,430.09 "",-13.3,14.8,33.75,"" 19,363.0 "","" 21,161.0 "","" 18,916.0 "","" 18,619.0 "",1814,1942,1889,1784"
+"KMB US Equity,KIMBERLY-CLARK CORP,A,Consumer Staples,Household Products,US,"" 47,363.18 "",9.9,12.6,18.92,"" 19,440.0 "","" 20,175.0 "","" 20,431.0 "","" 20,058.0 "",2239,2269,1955,1822"
+"KR US Equity,KROGER CO,BBB,Consumer Staples,Consumer Staples Distribution,US,"" 47,068.83 "",17.0,8.7,23.38,"" 132,498.0 "","" 137,888.0 "","" 148,258.0 "","" 150,039.0 "",7063,6783,7560,7105"
+"LOW US Equity,LOWE'S COS INC,BBB+,Consumer Discretionary,Specialty Retail,US,"" 122,575.57 "",-10.9,14.7,24.05,"" 89,597.0 "","" 96,250.0 "","" 97,059.0 "","" 86,377.0 "",16193,17605,18532,16894"
+"MRK US Equity,MERCK & CO. INC.,A+,Health Care,Pharmaceuticals,US,"" 196,278.74 "",-20.9,11.3,24.16,"" 48,704.0 "","" 59,283.0 "","" 60,115.0 "","" 64,168.0 "",5953,5911,6358,6109"
+"NKE US Equity,NIKE INC -CL B,AA-,Consumer Discretionary,""Textiles, Apparel & Luxury Goo"",US,"" 82,301.23 "",-25.9,20.8,38.91,"" 44,538.0 "","" 46,710.0 "","" 51,217.0 "","" 51,362.0 "",6854,8420,8454,7519"
+"OMC US Equity,OMNICOM GROUP,BBB+,Communication Services,Media,US,"" 14,289.81 "",-14.2,8.3,26.36,"" 14,289.4 "","" 14,289.1 "","" 14,692.2 "","" 15,689.1 "",#N/A N/A,#N/A N/A,#N/A N/A,1622.2"
+"PEP US Equity,PEPSICO INC,A+,Consumer Staples,Beverages,US,"" 195,878.14 "",-5.2,15.5,18.70,"" 79,474.0 "","" 86,392.0 "","" 91,471.0 "","" 91,854.0 "",4347,5222,5334,5306"
+"PVH US Equity,PVH CORP,BBB-,Consumer Discretionary,""Textiles, Apparel & Luxury Goo"",US,"" 3,627.74 "",-34.8,7.3,47.07,"" 7,132.6 "","" 9,154.7 "","" 9,024.2 "","" 9,217.7 "",1417.1,1348.5,1802.6,1419.7"
+"PEG US Equity,PUBLIC SERVICE ENTERPRISE GP,BBB+,Utilities,Multi-Utilities,US,"" 41,560.08 "",-0.5,17.4,21.28,"" 9,722.0 "","" 9,800.0 "","" 11,237.0 "","" 10,290.0 "",744,960,1023,1124"
+"TXN US Equity,TEXAS INSTRUMENTS INC,A+,Information Technology,Semiconductors & Semiconductor,US,"" 135,068.20 "",-20.3,25.2,34.14,"" 18,344.0 "","" 20,028.0 "","" 17,519.0 "","" 15,641.0 "",1910,2757,3999,4527"
+"TXT US Equity,TEXTRON INC,BBB,Industrials,Aerospace & Defense,US,"" 11,994.25 "",-13.6,11.9,27.07,"" 12,382.0 "","" 12,869.0 "","" 13,683.0 "","" 13,702.0 "",3468,3550,3914,4071"
+"TKR US Equity,TIMKEN CO,BBB-,Industrials,Machinery,US,"" 4,310.15 "",-13.6,8.4,32.91,"" 4,132.9 "","" 4,496.7 "","" 4,769.0 "","" 4,573.0 "",1042.7,1191.3,1229.1,1195.6"
+"TJX US Equity,TJX COMPANIES INC,A,Consumer Discretionary,Specialty Retail,US,"" 142,564.36 "",6.0,19.9,18.28,"" 32,137.0 "","" 48,550.0 "","" 49,936.0 "","" 54,217.0 "",4337.389,5962,5819,5965"
+"TTC US Equity,TORO CO,BBB,Industrials,Machinery,US,"" 6,701.92 "",-15.7,14.1,32.40,"" 3,959.6 "","" 4,514.7 "","" 4,553.2 "","" 4,583.8 "",738.17,1051.109,1087.8,1038.9"
+"JCI US Equity,JOHNSON CONTROLS INTERNATION,BBB+,Industrials,Building Products,US,"" 50,718.49 "",-2.2,20.6,30.39,"" 23,668.0 "","" 25,299.0 "","" 22,331.0 "","" 22,952.0 "",2057,2510,2776,1774"
+"WY US Equity,WEYERHAEUSER CO,BBB,Real Estate,Specialized REITs,US,"" 18,734.16 "",-7.7,21.0,25.38,"" 10,201.0 "","" 10,184.0 "","" 7,674.0 "","" 7,124.0 "",520,550,566,607"
+"AAPL US Equity,APPLE INC,AA+,Information Technology,""Technology Hardware, Storage &"",US,"" 2,959,047.94 "",-21.3,27.7,29.40,"" 365,817.0 "","" 394,328.0 "","" 383,285.0 "","" 391,035.0 "",6580,4946,6331,7286"
+"CTAS US Equity,CINTAS CORP,A-,Industrials,Commercial Services & Supplies,US,"" 83,083.21 "",12.8,30.1,24.13,"" 7,116.3 "","" 7,854.5 "","" 8,815.8 "","" 9,596.6 "",481.797,472.15,506.604,410.201"
+"CSCO US Equity,CISCO SYSTEMS INC,AA-,Information Technology,Communications Equipment,US,"" 221,829.59 "",-4.5,18.8,22.87,"" 49,818.0 "","" 51,557.0 "","" 56,998.0 "","" 53,803.0 "",1559,2568,3644,3373"
+"MKC US Equity,MCCORMICK & CO-NON VTG SHRS,BBB,Consumer Staples,Food Products,US,"" 20,192.41 "",-0.6,20.8,23.51,"" 6,317.9 "","" 6,350.5 "","" 6,662.2 "","" 6,723.7 "",1182.3,1340.1,1126.5,1239.9"
+"COST US Equity,COSTCO WHOLESALE CORP,AA,Consumer Staples,Consumer Staples Distribution,US,"" 441,243.10 "",8.7,39.0,22.09,"" 195,929.0 "","" 226,954.0 "","" 242,290.0 "","" 254,453.0 "",14215,17907,16651,18647"
+"AMAT US Equity,APPLIED MATERIALS INC,A,Information Technology,Semiconductors & Semiconductor,US,"" 111,678.12 "",-15.3,17.6,45.54,"" 23,063.0 "","" 25,785.0 "","" 26,517.0 "","" 27,176.0 "",4309,5932,5725,5421"
+"COKE US Equity,COCA-COLA CONSOLIDATED INC,BBB+,Consumer Staples,Beverages,US,"" 12,344.38 "",12.6,10.0,32.50,"" 5,562.7 "","" 6,201.0 "","" 6,653.9 "","" 6,899.7 "",302.851,347.545,321.932,330.395"
+"GILD US Equity,GILEAD SCIENCES INC,A-,Health Care,Biotechnology,US,"" 130,169.32 "",14.0,29.9,25.12,"" 27,305.0 "","" 27,281.0 "","" 27,116.0 "","" 28,754.0 "",1618,1507,1787,1710"
+"HOLX US Equity,HOLOGIC INC,BBB-,Health Care,Health Care Equipment & Suppli,US,"" 12,992.62 "",-20.2,14.0,21.92,"" 5,632.3 "","" 4,862.8 "","" 4,030.4 "","" 4,030.3 "",501.2,623.7,617.6,679.8"
+"BIIB US Equity,BIOGEN INC,BBB+,Health Care,Biotechnology,US,"" 17,361.53 "",-22.4,9.1,27.96,"" 10,981.7 "","" 10,173.4 "","" 9,835.6 "","" 9,675.9 "",1351.5,1344.4,2527.4,2460.5"
+"LRCX US Equity,LAM RESEARCH CORP,A-,Information Technology,Semiconductors & Semiconductor,US,"" 81,846.29 "",-11.5,18.2,47.50,"" 14,626.2 "","" 17,227.0 "","" 17,428.5 "","" 14,905.4 "",2689.294,3966.294,4816.19,4217.924"
+"ROST US Equity,ROSS STORES INC,BBB+,Consumer Discretionary,Specialty Retail,US,"" 45,915.12 "",-7.4,16.6,23.26,"" 12,531.6 "","" 18,916.2 "","" 18,695.8 "","" 20,376.9 "",1508.982,2262.273,2023.495,2192.22"
+"SBUX US Equity,STARBUCKS CORP,BBB+,Consumer Discretionary,""Hotels, Restaurants & Leisure"",US,"" 92,575.85 "",-10.2,15.0,37.32,"" 29,060.6 "","" 32,250.3 "","" 35,975.6 "","" 36,176.2 "",1603.9,2176.6,1806.4,1777.3"
+"STZ US Equity,CONSTELLATION BRANDS INC-A,BBB,Consumer Staples,Beverages,US,"" 33,729.70 "",-15.0,54.2,27.26,"" 8,614.9 "","" 8,820.7 "","" 9,452.6 "","" 9,961.8 "",1291.1,1573.2,1898.7,2078.3"
+"ATD CN Equity,ALIMENTATION COUCHE-TARD INC,BBB+,Consumer Staples,Consumer Staples Distribution,CA,"" 67,596.99 "",-10.3,10.7,22.60,"" 45,760.1 "","" 62,809.9 "","" 71,856.7 "","" 69,263.5 "",1767.6,2403,2176,2333.1"
+"CAE CN Equity,CAE INC,BBB-,Industrials,Aerospace & Defense,CA,"" 10,391.34 "",-11.0,42.3,33.44,"" 2,981.9 "","" 3,371.3 "","" 4,010.6 "","" 4,282.8 "",647.8,519.8,583.4,573.6"
+"CCL/B CN Equity,CCL INDUSTRIES INC - CL B,BBB,Materials,Containers & Packaging,CA,"" 12,104.20 "",-6.8,9.4,24.34,"" 5,732.8 "","" 6,382.2 "","" 6,649.6 "","" 7,245.0 "",677.3,785.1,732.3,819.9"
+"ORLY US Equity,O'REILLY AUTOMOTIVE INC,BBB,Consumer Discretionary,Specialty Retail,US,"" 79,615.83 "",17.3,18.4,20.33,"" 13,327.6 "","" 14,409.9 "","" 15,812.3 "","" 16,708.5 "",3686.383,4359.126,4658.367,5095.804"
+"RCL US Equity,ROYAL CARIBBEAN CRUISES LTD,BBB-,Consumer Discretionary,""Hotels, Restaurants & Leisure"",US,"" 51,858.42 "",-16.2,13.9,41.08,"" 1,532.1 "","" 8,840.0 "","" 13,900.0 "","" 16,484.0 "",150.224,224.016,248,265"
+"EXP US Equity,EAGLE MATERIALS INC,BBB,Materials,Construction Materials,US,"" 7,202.78 "",-12.2,11.8,32.36,"" 1,622.6 "","" 1,861.5 "","" 2,148.1 "","" 2,259.3 "",235.749,236.661,291.882,373.923"
+"DLTR US Equity,DOLLAR TREE INC,BBB,Consumer Staples,Consumer Staples Distribution,US,"" 17,021.67 "",5.6,11.1,45.93,"" 25,509.3 "","" 26,321.2 "","" 28,331.7 "","" 16,781.1 "",3427,4367.3,5449.3,2495.8"
+"NTAP US Equity,NETAPP INC,BBB+,Information Technology,""Technology Hardware, Storage &"",US,"" 16,803.83 "",-28.0,15.4,38.44,"" 5,744.0 "","" 6,318.0 "","" 6,362.0 "","" 6,268.0 "",114,204,167,186"
+"NOV US Equity,NOV INC,BBB,Energy,Energy Equipment & Services,US,"" 4,744.56 "",-13.7,5.6,40.04,"" 5,524.0 "","" 7,237.0 "","" 8,583.0 "","" 8,870.0 "",1331,1813,2151,1932"
+"RL US Equity,RALPH LAUREN CORP,A-,Consumer Discretionary,""Textiles, Apparel & Luxury Goo"",US,"" 12,754.31 "",-10.3,13.3,39.14,"" 4,400.8 "","" 6,218.5 "","" 6,443.6 "","" 6,631.4 "",759,977.3,1071.3,902.2"
+"PWR US Equity,QUANTA SERVICES INC,BBB,Industrials,Construction & Engineering,US,"" 39,619.01 "",-15.4,22.9,38.56,"" 12,980.2 "","" 17,073.9 "","" 20,882.2 "","" 23,672.8 "",84.659,103.265,175.658,260.181"
+"NVDA US Equity,NVIDIA CORP,AA-,Information Technology,Semiconductors & Semiconductor,US,"" 2,476,356.00 "",-24.4,41.3,57.05,"" 16,675.0 "","" 26,914.0 "","" 26,974.0 "","" 60,922.0 "",1826,2605,5159,5282"
+"EPD US Equity,ENTERPRISE PRODUCTS PARTNERS,A-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 67,180.01 "",0.5,10.9,16.90,"" 40,806.9 "","" 58,186.0 "","" 49,715.0 "","" 56,219.0 "",2681,2554,3352,3955"
+"JNPR US Equity,JUNIPER NETWORKS INC,BBB,Information Technology,Communications Equipment,US,"" 11,475.73 "",-7.8,28.7,21.85,"" 4,735.4 "","" 5,301.2 "","" 5,564.5 "","" 5,073.6 "",272.6,619.4,952.4,830.1"
+"LII US Equity,LENNOX INTERNATIONAL INC,BBB,Industrials,Building Products,US,"" 19,738.95 "",-8.7,20.3,30.92,"" 4,194.1 "","" 4,718.4 "","" 4,981.9 "","" 5,341.3 "",510.9,753,699.1,704.8"
+"PKG US Equity,PACKAGING CORP OF AMERICA,BBB,Materials,Containers & Packaging,US,"" 16,833.64 "",-16.3,13.6,23.18,"" 7,730.3 "","" 8,478.0 "","" 7,802.4 "","" 8,383.3 "",902.5,977.3,1013.1,1124.9"
+"TPR US Equity,TAPESTRY INC,BBB,Consumer Discretionary,""Textiles, Apparel & Luxury Goo"",US,"" 13,174.46 "",-2.1,12.4,38.97,"" 5,746.3 "","" 6,684.5 "","" 6,660.9 "","" 6,671.2 "",734.8,994.2,919.5,824.8"
+"CP CN Equity,CANADIAN PACIFIC KANSAS CITY,BBB+,Industrials,Ground Transportation,CA,"" 96,321.88 "",-0.7,17.0,22.66,"" 7,995.0 "","" 13,217.0 "","" 12,555.0 "","" 14,546.0 "",235,284,400,457"
+"EW US Equity,EDWARDS LIFESCIENCES CORP,BBB,Health Care,Health Care Equipment & Suppli,US,"" 42,049.98 "",-3.4,25.3,42.04,"" 5,232.5 "","" 5,382.4 "","" 5,010.0 "","" 5,439.5 "",726.7,875.5,903.5,1086.7"
+"AYI US Equity,ACUITY INC,BBB,Industrials,Electrical Equipment,US,"" 7,077.85 "",-21.5,15.6,31.73,"" 3,461.0 "","" 4,006.1 "","" 3,952.2 "","" 3,841.0 "",398.7,485.7,368.5,387.6"
+"LKQ US Equity,LKQ CORP,BBB-,Consumer Discretionary,Distributors,US,"" 10,866.99 "",15.2,9.3,29.12,"" 13,088.5 "","" 12,794.0 "","" 13,866.0 "","" 14,355.0 "",2611,2752,3121,3220"
+"HUN US Equity,HUNTSMAN CORP,BBB-,Materials,Chemicals,US,"" 2,265.67 "",-26.6,19.7,34.55,"" 7,670.0 "","" 8,023.0 "","" 6,111.0 "","" 6,036.0 "",1038,995,867,917"
+"DAL US Equity,DELTA AIR LINES INC,BBB-,Industrials,Passenger Airlines,US,"" 26,673.22 "",-32.3,5.6,42.55,"" 29,899.0 "","" 50,582.0 "","" 58,048.0 "","" 61,643.0 "",1098,1424,1314,1428"
+"TSLA US Equity,TESLA INC,BBB,Consumer Discretionary,Automobiles,US,"" 776,370.72 "",-40.2,102.6,66.50,"" 53,823.0 "","" 81,462.0 "","" 96,773.0 "","" 97,690.0 "",5757,12839,13626,12017"
+"CDW US Equity,CDW CORP/DE,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 19,958.70 "",-12.7,14.7,29.94,"" 20,820.8 "","" 23,748.7 "","" 21,376.0 "","" 20,998.7 "",927.6,800.2,668.1,605.3"
+"NWSA US Equity,NEWS CORP - CLASS A,BBB-,Communication Services,Media,US,"" 15,456.73 "",-5.7,12.7,22.99,"" 9,358.0 "","" 10,385.0 "","" 9,879.0 "","" 10,085.0 "",253,311,311,296"
+"VNT US Equity,VONTIER CORP,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 4,455.54 "",-17.6,11.0,30.48,"" 2,990.7 "","" 3,184.4 "","" 3,095.2 "","" 2,979.0 "",287,346,296.6,337.8"
+"APA US Equity,APA CORP,BBB-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 5,826.40 "",-29.5,3.7,46.05,"" 8,079.0 "","" 10,961.0 "","" 8,378.0 "","" 9,727.0 "",473,427,453,425"
+"MRVL US Equity,MARVELL TECHNOLOGY INC,BBB-,Information Technology,Semiconductors & Semiconductor,US,"" 44,777.37 "",-53.1,158.9,65.99,"" 2,968.9 "","" 4,462.4 "","" 5,919.6 "","" 5,507.7 "",268.228,720.331,1068.3,864.4"
+"DINO US Equity,HF SINCLAIR CORP,BBB-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 5,469.47 "",-15.9,8.2,36.57,"" 18,389.1 "","" 38,204.8 "","" 31,964.4 "","" 28,580.0 "",2122.128,3214.528,2921.831,2798"
+"GEV US Equity,GE VERNOVA INC,BBB-,Industrials,Electrical Equipment,US,"" 88,440.96 "",-1.6,50.8,59.56,"" 33,006.0 "","" 29,654.0 "","" 33,239.0 "","" 34,935.0 "",#N/A N/A,7893,8253,8587"
+"SOLV US Equity,SOLVENTUM CORP,BBB-,Health Care,Health Care Equipment & Suppli,US,"" 11,463.17 "",0.3,11.8,35.87,"" 8,171.0 "","" 8,130.0 "","" 8,197.0 "","" 8,254.0 "",#N/A N/A,873,857,965"
+"HES US Equity,HESS CORP,BBB-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 40,408.22 "",-1.5,7.0,27.54,"" 7,473.0 "","" 11,324.0 "","" 10,511.0 "","" 12,896.0 "",223,217,304,419"
+"ARW US Equity,ARROW ELECTRONICS INC,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 5,300.31 "",-9.7,9.8,28.63,"" 34,477.0 "","" 37,124.4 "","" 33,107.1 "","" 27,923.3 "",4201.965,5319.369,5187.225,4709.706"
+"AVT US Equity,AVNET INC,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 4,083.02 "",-9.2,9.4,27.85,"" 19,534.7 "","" 24,310.7 "","" 26,536.9 "","" 23,757.1 "",3236.837,4244.148,5465.031,5468.73"
+"BCE CN Equity,BCE INC,BBB,Communication Services,Diversified Telecommunication,CA,"" 28,088.00 "",-5.8,7.2,22.99,"" 23,449.0 "","" 24,174.0 "","" 24,673.0 "","" 24,409.0 "",482,656,465,420"
+"BA US Equity,BOEING CO/THE,BBB-,Industrials,Aerospace & Defense,US,"" 121,814.77 "",-8.5,#N/A N/A,38.59,"" 62,286.0 "","" 66,608.0 "","" 77,794.0 "","" 66,517.0 "",78175,77357,78795,86374"
+"BC US Equity,BRUNSWICK CORP,BBB-,Consumer Discretionary,Leisure Products,US,"" 2,886.74 "",-31.8,10.8,39.48,"" 5,846.2 "","" 6,812.2 "","" 6,401.4 "","" 5,237.1 "",1208,1471.4,1476.8,1302.6"
+"CPB US Equity,THE CAMPBELL'S COMPANY,BBB-,Consumer Staples,Food Products,US,"" 11,190.77 "",-8.7,12.0,24.51,"" 8,476.0 "","" 8,562.0 "","" 9,357.0 "","" 9,636.0 "",933,1246,1291,1386"
+"CAG US Equity,CONAGRA BRANDS INC,BBB-,Consumer Staples,Food Products,US,"" 12,091.59 "",-7.5,22.9,23.82,"" 11,184.7 "","" 11,535.9 "","" 12,277.0 "","" 12,050.9 "",1709.7,1966.7,2212.2,2083"
+"FMC US Equity,FMC CORP,BBB-,Materials,Chemicals,US,"" 4,726.36 "",-21.1,12.8,55.07,"" 5,045.2 "","" 5,802.3 "","" 4,486.8 "","" 4,246.1 "",1521.9,1651.6,1724.6,1201.6"
+"F US Equity,FORD MOTOR CO,BBB-,Consumer Discretionary,Automobiles,US,"" 38,294.15 "",0.4,2.5,38.39,"" 136,341.0 "","" 158,057.0 "","" 176,191.0 "","" 184,992.0 "",12065,14080,15651,14951"
+"FCX US Equity,FREEPORT-MCMORAN INC,BBB-,Materials,Metals & Mining,US,"" 47,279.70 "",-12.9,7.9,42.98,"" 22,845.0 "","" 22,780.0 "","" 22,855.0 "","" 25,455.0 "",4692,5401,6281,6808"
+"MTH US Equity,MERITAGE HOMES CORP,BBB-,Consumer Discretionary,Household Durables,US,"" 4,678.30 "",-14.8,6.4,39.08,"" 5,147.3 "","" 6,298.2 "","" 6,137.6 "","" 6,392.9 "",3742.419,4358.263,4721.291,5728.775"
+"IFF US Equity,INTL FLAVORS & FRAGRANCES,BBB-,Materials,Chemicals,US,"" 18,540.79 "",-13.8,16.2,27.06,"" 11,656.0 "","" 12,440.0 "","" 11,479.0 "","" 11,484.0 "",2516,3151,2477,2133"
+"LEG US Equity,LEGGETT & PLATT INC,BBB-,Consumer Discretionary,Household Durables,US, 927.13 ,-28.0,#N/A N/A,50.93,"" 5,072.6 "","" 5,146.7 "","" 4,725.3 "","" 4,383.6 "",993.2,907.5,819.7,722.6"
+"MAT US Equity,MATTEL INC,BBB,Consumer Discretionary,Leisure Products,US,"" 4,788.72 "",-16.4,8.3,37.29,"" 5,457.7 "","" 5,434.7 "","" 5,441.2 "","" 5,379.5 "",777.184,894.064,571.609,501.732"
+"MU US Equity,MICRON TECHNOLOGY INC,BBB-,Information Technology,Semiconductors & Semiconductor,US,"" 76,888.92 "",-18.1,7.5,58.82,"" 27,705.0 "","" 30,758.0 "","" 15,540.0 "","" 25,111.0 "",4487,6663,8387,8875"
+"PPC US Equity,PILGRIM'S PRIDE CORP,BBB-,Consumer Staples,Food Products,US,"" 12,821.12 "",33.7,6.4,30.04,"" 14,777.5 "","" 17,468.4 "","" 17,362.2 "","" 17,878.3 "",1575.658,1990.184,1985.399,1783.488"
+"TOL US Equity,TOLL BROTHERS INC,BBB-,Consumer Discretionary,Household Durables,US,"" 9,339.12 "",-25.1,7.8,37.56,"" 8,790.4 "","" 10,275.6 "","" 9,994.9 "","" 10,846.7 "",7915.884,8733.326,9057.578,9712.925"
+"UVV US Equity,UNIVERSAL CORP/VA,BBB-,Consumer Staples,Tobacco,US,"" 1,275.63 "",-2.8,8.2,26.75,"" 1,983.4 "","" 2,103.6 "","" 2,569.8 "","" 2,748.6 "",786.618,1016.674,1036.783,1264.098"
+"WHR US Equity,WHIRLPOOL CORP,BBB-,Consumer Discretionary,Household Durables,US,"" 4,366.47 "",-29.9,27.1,43.80,"" 21,985.0 "","" 19,724.0 "","" 19,455.0 "","" 16,607.0 "",2717,2089,2247,2035"
+"AES US Equity,AES CORP,BBB-,Utilities,Independent Power and Renewabl,US,"" 7,247.15 "",-19.6,10.0,42.15,"" 11,141.0 "","" 12,617.0 "","" 12,668.0 "","" 12,278.0 "",604,1055,712,593"
+"SON US Equity,SONOCO PRODUCTS CO,BBB-,Materials,Containers & Packaging,US,"" 4,329.63 "",-9.1,13.6,22.09,"" 5,590.4 "","" 7,250.6 "","" 6,781.3 "","" 5,305.4 "",562.113,1095.558,773.501,1016.139"
+"AGCO US Equity,AGCO CORP,BBB-,Industrials,Machinery,US,"" 6,038.16 "",-13.1,45.1,34.81,"" 11,138.3 "","" 12,651.4 "","" 14,412.4 "","" 11,661.9 "",2593.7,3189.7,3440.7,2731.3"
+"FLS US Equity,FLOWSERVE CORP,BBB-,Industrials,Machinery,US,"" 5,494.47 "",-27.1,16.3,32.36,"" 3,541.1 "","" 3,615.1 "","" 4,320.6 "","" 4,557.8 "",678.287,803.198,879.937,837.254"
+"HAS US Equity,HASBRO INC,BBB,Consumer Discretionary,Leisure Products,US,"" 7,365.38 "",-4.8,10.8,33.93,"" 6,420.4 "","" 5,856.7 "","" 5,003.3 "","" 4,135.5 "",552.1,676.8,332,274.2"
+"KEX US Equity,KIRBY CORP,BBB,Industrials,Marine Transportation,US,"" 5,423.99 "",-9.9,10.3,30.83,"" 2,246.7 "","" 2,784.8 "","" 3,091.6 "","" 3,265.9 "",331.35,461.848,454.389,393.898"
+"AN US Equity,AUTONATION INC,BBB-,Consumer Discretionary,Specialty Retail,US,"" 6,506.36 "",-2.4,9.6,33.63,"" 25,844.0 "","" 26,985.0 "","" 26,948.9 "","" 26,765.4 "",1847.9,2048.3,3033.4,3360"
+"PII US Equity,POLARIS INC,BBB,Consumer Discretionary,Leisure Products,US,"" 1,854.78 "",-41.5,8.9,44.38,"" 8,198.2 "","" 8,589.0 "","" 8,934.4 "","" 7,175.4 "",1644.8,1896.1,1810.5,1741.5"
+"XRAY US Equity,DENTSPLY SIRONA INC,BBB-,Health Care,Health Care Equipment & Suppli,US,"" 2,556.93 "",-31.7,#N/A N/A,42.71,"" 4,231.0 "","" 3,922.0 "","" 3,965.0 "","" 3,793.0 "",515,627,624,564"
+"T CN Equity,TELUS CORP,BBB-,Communication Services,Diversified Telecommunication,CA,"" 31,449.03 "",8.5,8.7,22.35,"" 17,258.0 "","" 18,412.0 "","" 20,116.0 "","" 20,386.0 "",448,537,484,629"
+"CCO CN Equity,CAMECO CORP,BBB-,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 24,812.79 "",-22.9,41.5,45.46,"" 1,475.0 "","" 1,868.0 "","" 2,587.8 "","" 3,135.8 "",409.521,664.698,692.261,826.863"
+"TCL/A CN Equity,TRANSCONTINENTAL INC-CL A,BBB-,Materials,Containers & Packaging,CA,"" 1,480.97 "",3.5,4.7,28.65,"" 2,643.4 "","" 2,956.1 "","" 2,940.6 "","" 2,812.9 "",357,479.3,391.1,365.7"
+"PAAS CN Equity,PAN AMERICAN SILVER CORP,BBB-,Materials,Metals & Mining,CA,"" 13,631.64 "",30.0,7.6,46.04,"" 1,632.8 "","" 1,494.7 "","" 2,316.1 "","" 2,818.9 "",500.462,471.63,711.6,605.7"
+"RCI/B CN Equity,ROGERS COMMUNICATIONS INC-B,BBB-,Communication Services,Wireless Telecommunication Ser,CA,"" 19,745.90 "",-17.9,7.6,19.93,"" 14,655.0 "","" 15,396.0 "","" 19,308.0 "","" 20,604.0 "",535,438,456,641"
+"TECK/B CN Equity,TECK RESOURCES LTD-CLS B,BBB-,Materials,Metals & Mining,CA,"" 22,917.94 "",-21.6,7.2,39.36,"" 12,766.0 "","" 17,316.0 "","" 6,476.0 "","" 9,065.0 "",2390,2685,2946,2598"
+"WFG CN Equity,WEST FRASER TIMBER CO LTD,BBB-,Materials,Paper & Forest Products,CA,"" 8,097.40 "",-18.0,11.7,28.88,"" 10,518.0 "","" 9,701.0 "","" 6,454.0 "","" 6,174.0 "",1061,1032,851,844"
+"JBL US Equity,JABIL INC,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 14,495.92 "",-6.1,10.8,42.82,"" 29,285.0 "","" 33,478.0 "","" 34,702.0 "","" 28,883.0 "",4414,6128,5206,4276"
+"ATR US Equity,APTARGROUP INC,BBB-,Materials,Containers & Packaging,US,"" 9,487.91 "",-8.2,14.5,20.19,"" 3,227.2 "","" 3,322.2 "","" 3,487.5 "","" 3,582.9 "",441.464,486.806,513.053,461.807"
+"K CN Equity,KINROSS GOLD CORP,BBB-,Materials,Metals & Mining,CA,"" 25,224.10 "",54.0,4.6,39.18,"" 2,599.6 "","" 3,455.1 "","" 4,239.7 "","" 5,148.8 "",1151.3,1072.2,1153,1243.2"
+"ALB US Equity,ALBEMARLE CORP,BBB-,Materials,Chemicals,US,"" 6,224.89 "",-38.2,#N/A N/A,61.22,"" 3,328.0 "","" 7,320.1 "","" 9,617.2 "","" 5,377.5 "",798.62,2076.031,2161.287,1502.531"
+"FLEX US Equity,FLEX LTD,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 12,083.07 "",-17.8,10.6,43.70,"" 24,124.0 "","" 26,041.0 "","" 28,502.0 "","" 26,415.0 "",3895,6580,7388,6205"
+"ALA CN Equity,ALTAGAS LTD,BBB-,Utilities,Gas Utilities,CA,"" 11,918.93 "",20.5,13.3,17.78,"" 10,573.0 "","" 14,087.0 "","" 12,997.0 "","" 12,448.0 "",782,1060,847,676"
+"ILMN US Equity,ILLUMINA INC,BBB,Health Care,Life Sciences Tools & Services,US,"" 11,268.33 "",-46.7,#N/A N/A,44.03,"" 4,526.0 "","" 4,584.0 "","" 4,504.0 "","" 4,372.0 "",431,568,587,547"
+"EMA CN Equity,EMERA INC,BBB,Utilities,Electric Utilities,CA,"" 18,170.90 "",15.1,16.4,17.13,"" 5,765.0 "","" 7,588.0 "","" 7,563.0 "","" 7,200.0 "",538,769,790,781"
+"SNX US Equity,TD SYNNEX CORP,BBB-,Information Technology,""Electronic Equipment, Instrume"",US,"" 8,869.65 "",-9.2,9.5,30.41,"" 31,614.2 "","" 62,343.8 "","" 57,555.4 "","" 58,452.4 "",6642.915,9066.62,7146.274,8287.048"
+"FLO US Equity,FLOWERS FOODS INC,BBB,Consumer Staples,Food Products,US,"" 3,855.23 "",-10.5,9.7,21.59,"" 4,330.8 "","" 4,805.8 "","" 5,090.8 "","" 5,103.5 "",203.459,242.311,270.883,262.691"
+"KEY CN Equity,KEYERA CORP,BBB,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 9,619.86 "",-3.3,11.4,19.24,"" 4,984.9 "","" 7,060.2 "","" 7,053.1 "","" 7,138.4 "",280.736,300.883,225.79,270.225"
+"WLK US Equity,WESTLAKE CORP,BBB+,Materials,Chemicals,US,"" 11,801.72 "",-19.5,8.8,30.73,"" 11,778.0 "","" 15,794.0 "","" 12,548.0 "","" 12,142.0 "",1407,1866,1622,1697"
+"TMUS US Equity,T-MOBILE US INC,BBB,Communication Services,Wireless Telecommunication Ser,US,"" 297,850.47 "",19.1,11.7,20.46,"" 80,118.0 "","" 79,571.0 "","" 78,558.0 "","" 81,400.0 "",2567,1884,1678,1607"
+"MOS US Equity,MOSAIC CO/THE,BBB,Materials,Chemicals,US,"" 8,650.85 "",11.9,7.3,36.04,"" 12,357.4 "","" 19,125.2 "","" 13,696.1 "","" 11,122.8 "",2741.4,3543.1,2523.2,2548.4"
+"CF US Equity,CF INDUSTRIES HOLDINGS INC,BBB,Materials,Chemicals,US,"" 12,468.39 "",-11.7,7.0,30.78,"" 6,538.0 "","" 11,186.0 "","" 6,631.0 "","" 5,936.0 "",408,474,299,314"
+"ET US Equity,ENERGY TRANSFER LP,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 59,257.08 "",-10.4,10.0,23.54,"" 67,417.0 "","" 89,876.0 "","" 78,586.0 "","" 82,671.0 "",2014,2461,2478,3070"
+"OC US Equity,OWENS CORNING,BBB,Industrials,Building Products,US,"" 11,789.20 "",-18.4,11.0,32.86,"" 8,498.0 "","" 9,761.0 "","" 9,677.0 "","" 10,975.0 "",1078,1334,1198,1587"
+"CVE CN Equity,CENOVUS ENERGY INC,BBB,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 30,537.18 "",-22.4,4.9,34.64,"" 45,364.0 "","" 65,135.0 "","" 52,195.0 "","" 54,231.0 "",3919,4312,4030,4496"
+"GM US Equity,GENERAL MOTORS CO,BBB,Consumer Discretionary,Automobiles,US,"" 43,067.12 "",-16.1,2.0,35.67,"" 127,004.0 "","" 156,735.0 "","" 171,842.0 "","" 187,442.0 "",12988,15366,16461,14564"
+"DOL CN Equity,DOLLARAMA INC,BBB,Consumer Discretionary,Broadline Retail,CA,"" 46,510.36 "",19.8,20.1,22.68,"" 4,026.3 "","" 4,330.8 "","" 5,052.7 "","" 5,867.3 "",630.655,590.927,957.172,916.812"
+"LEA US Equity,LEAR CORP,BBB,Consumer Discretionary,Automobile Components,US,"" 4,252.19 "",-15.5,4.5,31.56,"" 19,263.1 "","" 20,891.5 "","" 23,466.9 "","" 23,306.0 "",1571.9,1573.6,1758,1601.1"
+"LYB US Equity,LYONDELLBASELL INDU-CL A,BBB,Materials,Chemicals,US,"" 18,327.48 "",-22.2,10.1,27.48,"" 46,173.0 "","" 50,451.0 "","" 41,107.0 "","" 40,302.0 "",4901,4804,4765,4658"
+"TRGP US Equity,TARGA RESOURCES CORP,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 37,983.87 "",-1.8,13.3,31.22,"" 16,949.8 "","" 20,929.8 "","" 16,060.3 "","" 16,381.5 "",153.4,393.8,371.5,334.3"
+"KMI US Equity,KINDER MORGAN INC,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 60,218.06 "",-0.1,14.8,22.93,"" 16,610.0 "","" 19,200.0 "","" 15,334.0 "","" 15,100.0 "",562,634,525,555"
+"FBIN US Equity,FORTUNE BRANDS INNOVATIONS I,BBB,Industrials,Building Products,US,"" 6,239.65 "",-24.4,11.8,33.87,"" 7,656.1 "","" 4,723.0 "","" 4,626.2 "","" 4,609.0 "",1193.8,1021.3,982.3,960.3"
+"MPC US Equity,MARATHON PETROLEUM CORP,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 39,788.79 "",-7.9,7.7,34.94,"" 119,983.0 "","" 177,453.0 "","" 148,379.0 "","" 138,864.0 "",8055,8827,9317,9568"
+"IR US Equity,INGERSOLL-RAND INC,BBB,Industrials,Machinery,US,"" 29,038.12 "",-20.3,22.4,29.25,"" 5,152.4 "","" 5,916.3 "","" 6,876.1 "","" 7,235.0 "",854.2,1025.4,1001.1,1055"
+"KEYS US Equity,KEYSIGHT TECHNOLOGIES IN,BBB,Information Technology,""Electronic Equipment, Instrume"",US,"" 23,408.91 "",-15.7,26.6,34.15,"" 4,941.0 "","" 5,420.0 "","" 5,464.0 "","" 4,979.0 "",777,858,985,1022"
+"KHC US Equity,KRAFT HEINZ CO/THE,BBB,Consumer Staples,Food Products,US,"" 35,157.52 "",-2.9,21.3,21.94,"" 26,042.0 "","" 26,485.0 "","" 26,640.0 "","" 25,846.0 "",2729,3651,3614,3376"
+"HPE US Equity,HEWLETT PACKARD ENTERPRISE,BBB,Information Technology,""Technology Hardware, Storage &"",US,"" 19,887.57 "",-28.5,7.0,44.79,"" 27,784.0 "","" 28,496.0 "","" 29,135.0 "","" 30,127.0 "",4511,5161,4607,7810"
+"QRVO US Equity,QORVO INC,BBB-,Information Technology,Semiconductors & Semiconductor,US,"" 5,382.46 "",-17.6,18.4,54.03,"" 4,015.3 "","" 4,645.7 "","" 3,569.4 "","" 3,769.5 "",507.787,755.748,796.596,710.555"
+"ITT US Equity,ITT INC,BBB,Industrials,Machinery,US,"" 10,372.87 "",-10.1,14.7,29.48,"" 2,765.0 "","" 2,987.7 "","" 3,283.0 "","" 3,630.7 "",430.9,533.9,575.4,591.2"
+"DELL US Equity,DELL TECHNOLOGIES -C,BBB,Information Technology,""Technology Hardware, Storage &"",US,"" 59,176.90 "",-26.1,9.9,59.97,"" 86,670.0 "","" 101,197.0 "","" 102,301.0 "","" 88,425.0 "",3403,5898,4776,3622"
+"HWM US Equity,HOWMET AEROSPACE INC,BBB,Industrials,Aerospace & Defense,US,"" 49,842.07 "",12.8,24.1,35.81,"" 4,972.0 "","" 5,663.0 "","" 6,640.0 "","" 7,430.0 "",1402,1609,1765,1840"
+"NTR CN Equity,NUTRIEN LTD,BBB,Materials,Chemicals,CA,"" 35,523.71 "",14.2,7.5,27.16,"" 27,712.0 "","" 37,884.0 "","" 29,056.0 "","" 25,972.0 "",6328,7632,6336,6148"
+"AVGO US Equity,BROADCOM INC,BBB+,Information Technology,Semiconductors & Semiconductor,US,"" 803,986.21 "",-26.0,39.9,56.65,"" 27,450.0 "","" 33,203.0 "","" 35,819.0 "","" 51,574.0 "",1297,1925,1898,1760"
+"STE US Equity,STERIS PLC,BBB,Health Care,Health Care Equipment & Suppli,US,"" 21,834.27 "",8.4,16.5,21.85,"" 3,107.5 "","" 4,223.4 "","" 4,536.3 "","" 5,138.7 "",315.067,574.999,604.41,674.535"
+"GEHC US Equity,GE HEALTHCARE TECHNOLOGY,BBB,Health Care,Health Care Equipment & Suppli,US,"" 28,555.68 "",-20.2,13.2,34.53,"" 17,585.0 "","" 18,341.0 "","" 19,552.0 "","" 19,672.0 "",1946,2155,1960,1939"
+"ABX CN Equity,BARRICK GOLD CORP,BBB+,Materials,Metals & Mining,CA,"" 48,247.93 "",26.1,5.6,33.02,"" 11,985.0 "","" 11,013.0 "","" 11,397.0 "","" 12,922.0 "",1734,1781,1782,1942"
+"AEP US Equity,AMERICAN ELECTRIC POWER,BBB+,Utilities,Electric Utilities,US,"" 57,515.81 "",17.9,12.4,20.12,"" 16,792.0 "","" 19,639.5 "","" 18,982.3 "","" 19,721.3 "",989.2,1350.2,1879.5,1715.1"
+"AZO US Equity,AUTOZONE INC,BBB,Consumer Discretionary,Specialty Retail,US,"" 60,281.21 "",12.5,15.0,21.48,"" 14,629.6 "","" 16,252.2 "","" 17,457.2 "","" 18,490.3 "",4639.813,5638.004,5764.143,6155.218"
+"BDX US Equity,BECTON DICKINSON AND CO,BBB,Health Care,Health Care Equipment & Suppli,US,"" 57,056.68 "",-12.0,17.5,20.46,"" 19,131.0 "","" 18,870.0 "","" 19,372.0 "","" 20,178.0 "",2743,3224,3273,3843"
+"CMS US Equity,CMS ENERGY CORP,BBB+,Utilities,Multi-Utilities,US,"" 21,808.45 "",10.3,13.6,17.72,"" 7,329.0 "","" 8,596.0 "","" 7,462.0 "","" 7,515.0 "",667,1117,938,769"
+"DUK US Equity,DUKE ENERGY CORP,BBB+,Utilities,Electric Utilities,US,"" 94,641.24 "",14.1,11.9,17.47,"" 24,621.0 "","" 28,768.0 "","" 29,060.0 "","" 30,357.0 "",3111,3584,4292,4509"
+"RVTY US Equity,REVVITY INC,BBB,Health Care,Life Sciences Tools & Services,US,"" 11,031.92 "",-17.6,20.2,32.41,"" 3,827.8 "","" 3,311.8 "","" 2,750.6 "","" 2,755.0 "",425.89,405.462,428.062,367.587"
+"ETR US Equity,ENTERGY CORP,BBB+,Utilities,Electric Utilities,US,"" 37,166.81 "",10.6,12.0,24.41,"" 11,742.9 "","" 13,764.2 "","" 12,147.4 "","" 11,879.7 "",1196.09,1330.94,1611.768,1797.464"
+"NEU US Equity,NEWMARKET CORP,BBB+,Materials,Chemicals,US,"" 5,350.54 "",7.3,8.5,24.15,"" 2,356.1 "","" 2,764.8 "","" 2,698.4 "","" 2,786.6 "",498.539,631.383,456.234,505.426"
+"GPC US Equity,GENUINE PARTS CO,BBB,Consumer Discretionary,Distributors,US,"" 15,835.03 "",-1.5,13.3,31.90,"" 18,870.5 "","" 22,096.0 "","" 23,090.6 "","" 23,486.6 "",3889.919,4441.649,4676.686,5514.427"
+"HOG US Equity,HARLEY-DAVIDSON INC,BBB-,Consumer Discretionary,Automobiles,US,"" 2,784.56 "",-24.8,16.5,41.70,"" 5,336.3 "","" 5,755.1 "","" 5,836.5 "","" 5,186.8 "",712.942,950.96,929.951,745.793"
+"LHX US Equity,L3HARRIS TECHNOLOGIES INC,BBB,Industrials,Aerospace & Defense,US,"" 40,963.46 "",4.3,16.3,20.94,"" 17,814.0 "","" 17,062.0 "","" 19,419.0 "","" 21,325.0 "",982,1291,1472,1330"
+"HPQ US Equity,HP INC,BBB,Information Technology,""Technology Hardware, Storage &"",US,"" 22,464.61 "",-26.2,8.5,35.67,"" 63,487.0 "","" 62,910.0 "","" 53,718.0 "","" 53,559.0 "",7930,7614,6862,7720"
+"CNP US Equity,CENTERPOINT ENERGY INC,BBB+,Utilities,Multi-Utilities,US,"" 24,255.33 "",17.9,12.1,20.44,"" 8,352.0 "","" 9,321.0 "","" 8,696.0 "","" 8,643.0 "",608,876,770,714"
+"IEX US Equity,IDEX CORP,BBB,Industrials,Machinery,US,"" 12,385.46 "",-21.4,20.2,24.35,"" 2,764.8 "","" 3,181.9 "","" 3,273.9 "","" 3,268.8 "",370.4,470.9,420.8,429.7"
+"KMT US Equity,KENNAMETAL INC,BBB,Industrials,Machinery,US,"" 1,441.22 "",-21.7,8.1,32.86,"" 1,841.4 "","" 2,012.5 "","" 2,078.2 "","" 2,046.9 "",476.345,570.836,557.63,514.632"
+"LEN US Equity,LENNAR CORP-A,BBB,Consumer Discretionary,Household Durables,US,"" 27,465.95 "",-19.8,6.6,32.68,"" 27,130.7 "","" 33,671.0 "","" 34,233.4 "","" 35,441.5 "",19169.397,21862.453,18897.67,20312.43"
+"MAS US Equity,MASCO CORP,BBB,Industrials,Building Products,US,"" 13,033.55 "",-14.8,12.1,27.33,"" 8,375.0 "","" 8,680.0 "","" 7,967.0 "","" 7,828.0 "",1216,1236,1022,938"
+"CVS US Equity,CVS HEALTH CORP,BBB,Health Care,Health Care Providers & Servic,US,"" 84,945.81 "",51.8,9.8,37.50,"" 292,111.0 "","" 322,467.0 "","" 357,776.0 "","" 372,809.0 "",17760,19090,18025,18107"
+"MSI US Equity,MOTOROLA SOLUTIONS INC,BBB,Information Technology,Communications Equipment,US,"" 70,283.31 "",-8.7,25.8,20.20,"" 8,171.0 "","" 9,112.0 "","" 9,978.0 "","" 10,817.0 "",788,1055,827,766"
+"NI US Equity,NISOURCE INC,BBB+,Utilities,Multi-Utilities,US,"" 18,490.09 "",7.7,13.2,18.44,"" 4,899.6 "","" 5,850.6 "","" 5,505.4 "","" 5,455.1 "",498.7,751.9,503.2,389.1"
+"ES US Equity,EVERSOURCE ENERGY,BBB+,Utilities,Electric Utilities,US,"" 21,085.18 "",1.3,12.0,26.09,"" 9,863.1 "","" 12,289.3 "","" 11,910.7 "","" 11,900.8 "",267.547,374.395,507.307,594.568"
+"OKE US Equity,ONEOK INC,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 53,861.12 "",-13.2,15.5,27.33,"" 16,540.3 "","" 22,386.9 "","" 17,677.0 "","" 21,698.0 "",580.899,580.725,787,748"
+"MO US Equity,ALTRIA GROUP INC,BBB,Consumer Staples,Tobacco,US,"" 98,077.61 "",13.2,9.6,19.50,"" 21,111.0 "","" 20,688.0 "","" 20,502.0 "","" 20,444.0 "",1194,1180,1215,1080"
+"PHM US Equity,PULTEGROUP INC,BBB,Consumer Discretionary,Household Durables,US,"" 19,140.53 "",-12.6,5.5,32.73,"" 13,926.9 "","" 16,003.0 "","" 16,061.6 "","" 17,947.0 "",9047.569,11326.017,11795.37,12665.813"
+"PNW US Equity,PINNACLE WEST CAPITAL,BBB+,Utilities,Electric Utilities,US,"" 11,259.85 "",12.6,10.1,19.76,"" 3,803.8 "","" 4,324.4 "","" 4,696.0 "","" 5,124.9 "",367.167,450.636,493.547,501.442"
+"EIX US Equity,EDISON INTERNATIONAL,BBB,Utilities,Electric Utilities,US,"" 22,096.50 "",-26.2,12.3,28.11,"" 14,905.0 "","" 17,220.0 "","" 16,338.0 "","" 17,599.0 "",420,474,527,538"
+"SHW US Equity,SHERWIN-WILLIAMS CO/THE,BBB,Materials,Chemicals,US,"" 83,848.45 "",-1.7,21.9,22.94,"" 19,944.6 "","" 22,148.9 "","" 23,051.9 "","" 23,098.5 "",1927.2,2626.5,2329.8,2288.1"
+"LUV US Equity,SOUTHWEST AIRLINES CO,BBB,Industrials,Passenger Airlines,US,"" 14,198.62 "",-26.0,9.8,41.50,"" 15,790.0 "","" 23,814.0 "","" 26,091.0 "","" 27,483.0 "",537,790,807,800"
+"T US Equity,AT&T INC,BBB,Communication Services,Diversified Telecommunication,US,"" 194,887.67 "",22.0,8.1,22.18,"" 134,038.0 "","" 120,741.0 "","" 122,428.0 "","" 122,336.0 "",3325,3123,2177,2270"
+"SYY US Equity,SYSCO CORP,BBB,Consumer Staples,Consumer Staples Distribution,US,"" 35,097.33 "",-4.9,12.2,21.08,"" 51,297.8 "","" 68,636.1 "","" 76,324.7 "","" 78,844.0 "",3695.219,4437.498,4480.812,4678"
+"TRP CN Equity,TC ENERGY CORP,BBB+,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 71,149.64 "",3.5,14.2,18.30,"" 13,387.0 "","" 12,309.0 "","" 13,267.0 "","" 13,771.0 "",724,936,771,747"
+"VMC US Equity,VULCAN MATERIALS CO,BBB+,Materials,Construction Materials,US,"" 31,959.24 "",-5.7,19.0,24.62,"" 5,552.2 "","" 7,315.2 "","" 7,781.9 "","" 7,417.7 "",521.3,579.3,615.6,681.8"
+"WMB US Equity,WILLIAMS COS INC,BBB+,Energy,""Oil, Gas & Consumable Fuels"",US,"" 71,556.66 "",9.3,17.1,23.87,"" 10,627.0 "","" 10,965.0 "","" 10,907.0 "","" 10,503.0 "",379,320,274,279"
+"LNT US Equity,ALLIANT ENERGY CORP,BBB+,Utilities,Electric Utilities,US,"" 15,617.89 "",3.7,15.4,19.31,"" 3,669.0 "","" 4,205.0 "","" 4,027.0 "","" 3,981.0 "",246,325,343,295"
+"AMGN US Equity,AMGEN INC,BBB+,Health Care,Biotechnology,US,"" 149,085.14 "",7.3,14.7,26.18,"" 25,979.0 "","" 26,323.0 "","" 28,190.0 "","" 33,424.0 "",4086,4930,9518,6998"
+"TAP US Equity,MOLSON COORS BEVERAGE CO - B,BBB,Consumer Staples,Beverages,US,"" 12,067.75 "",3.3,6.9,25.26,"" 10,279.7 "","" 10,701.0 "","" 11,702.1 "","" 11,627.0 "",804.7,792.9,802.3,727.8"
+"INTC US Equity,INTEL CORP,BBB,Information Technology,Semiconductors & Semiconductor,US,"" 82,546.00 "",-5.6,#N/A N/A,58.71,"" 79,024.0 "","" 63,054.0 "","" 54,228.0 "","" 53,101.0 "",10776,13224,11127,12198"
+"TSN US Equity,TYSON FOODS INC-CL A,BBB,Consumer Staples,Food Products,US,"" 21,802.66 "",7.4,7.7,22.81,"" 47,049.0 "","" 53,282.0 "","" 52,881.0 "","" 53,309.0 "",4382,5514,5328,5195"
+"SWKS US Equity,SKYWORKS SOLUTIONS INC,BBB-,Information Technology,Semiconductors & Semiconductor,US,"" 8,597.12 "",-36.2,13.7,49.32,"" 5,109.1 "","" 5,485.5 "","" 4,772.4 "","" 4,178.0 "",885,1212.1,1119.7,784.8"
+"BIO US Equity,BIO-RAD LABORATORIES-A,BBB,Health Care,Life Sciences Tools & Services,US,"" 6,606.34 "",-27.5,18.2,36.57,"" 2,922.5 "","" 2,802.2 "","" 2,671.3 "","" 2,566.5 "",572.239,719.316,780.517,760"
+"CAH US Equity,CARDINAL HEALTH INC,BBB,Health Care,Health Care Providers & Servic,US,"" 32,541.62 "",14.8,12.4,22.21,"" 162,467.0 "","" 181,364.0 "","" 204,979.0 "","" 226,827.0 "",14594,15636,16119,14957"
+"NDSN US Equity,NORDSON CORP,BBB,Industrials,Machinery,US,"" 10,290.21 "",-12.9,18.5,26.65,"" 2,362.2 "","" 2,590.3 "","" 2,628.6 "","" 2,689.9 "",327.195,383.398,454.775,476.935"
+"OSK US Equity,OSHKOSH CORP,BBB,Industrials,Machinery,US,"" 5,460.97 "",-10.7,6.7,35.44,"" 7,952.5 "","" 8,282.0 "","" 9,657.9 "","" 10,730.2 "",1382.7,1865.6,2131.6,2265.7"
+"RPM US Equity,RPM INTERNATIONAL INC,BBB,Materials,Chemicals,US,"" 13,246.78 "",-15.4,17.4,24.74,"" 6,106.3 "","" 6,707.7 "","" 7,256.4 "","" 7,335.3 "",938.095,1212.618,1135.496,956.465"
+"SNPS US Equity,SYNOPSYS INC,BBB,Information Technology,Software,US,"" 63,907.57 "",-14.8,46.0,38.52,"" 4,204.2 "","" 5,081.5 "","" 5,318.0 "","" 6,127.4 "",229.023,211.927,325.59,361.849"
+"VMI US Equity,VALMONT INDUSTRIES,BBB+,Industrials,Construction & Engineering,US,"" 5,576.30 "",-9.2,11.2,36.43,"" 3,501.6 "","" 4,345.3 "","" 4,174.6 "","" 4,075.0 "",728.834,728.762,658.428,590.263"
+"CNQ CN Equity,CANADIAN NATURAL RESOURCES,BBB-,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 85,070.65 "",-7.5,6.9,29.48,"" 30,040.0 "","" 42,305.0 "","" 35,968.0 "","" 35,488.0 "",1548,1815,2034,2793"
+"CTC/A CN Equity,CANADIAN TIRE CORP-CLASS A,BBB,Consumer Discretionary,Broadline Retail,CA,"" 8,420.02 "",-1.9,7.0,22.17,"" 16,292.1 "","" 17,810.6 "","" 16,656.5 "","" 16,357.8 "",2480.6,3216.1,2693.7,2558.3"
+"MRU CN Equity,METRO INC/CN,BBB,Consumer Staples,Consumer Staples Distribution,CA,"" 22,497.06 "",13.7,12.3,16.74,"" 18,283.0 "","" 18,888.9 "","" 20,724.6 "","" 21,219.9 "",1169,1331.1,1451,1508.3"
+"WN CN Equity,WESTON (GEORGE) LTD,BBB+,Consumer Staples,Consumer Staples Distribution,CA,"" 33,348.35 "",15.5,8.1,19.08,"" 53,748.0 "","" 57,048.0 "","" 60,124.0 "","" 61,608.0 "",5166,5855,5829,6332"
+"BWA US Equity,BORGWARNER INC,BBB,Consumer Discretionary,Automobile Components,US,"" 5,810.70 "",-16.5,7.7,31.90,"" 11,803.0 "","" 12,635.0 "","" 14,198.0 "","" 14,086.0 "",1534,1217,1313,1251"
+"EMN US Equity,EASTMAN CHEMICAL CO,BBB,Materials,Chemicals,US,"" 8,862.70 "",-15.2,8.3,28.07,"" 10,476.0 "","" 10,580.0 "","" 9,210.0 "","" 9,382.0 "",1504,1894,1683,1988"
+"TSCO US Equity,TRACTOR SUPPLY COMPANY,BBB,Consumer Discretionary,Specialty Retail,US,"" 26,665.83 "",-5.1,17.9,28.03,"" 12,731.1 "","" 14,204.7 "","" 14,555.7 "","" 14,883.2 "",2191.192,2709.597,2645.854,2840.177"
+"MLM US Equity,MARTIN MARIETTA MATERIALS,BBB+,Materials,Construction Materials,US,"" 29,951.09 "",-4.1,11.3,24.13,"" 5,414.0 "","" 6,160.7 "","" 6,777.2 "","" 6,536.0 "",752.6,873.7,988.6,1115"
+"LNG US Equity,CHENIERE ENERGY INC,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 51,570.40 "",8.0,10.1,26.69,"" 15,864.0 "","" 33,428.0 "","" 20,394.0 "","" 15,703.0 "",706,826,445,501"
+"DRI US Equity,DARDEN RESTAURANTS INC,BBB,Consumer Discretionary,""Hotels, Restaurants & Leisure"",US,"" 23,430.99 "",8.9,16.0,27.42,"" 7,196.1 "","" 9,630.0 "","" 10,487.8 "","" 11,390.0 "",190.8,270.6,287.9,290.5"
+"WAB US Equity,WABTEC CORP,BBB,Industrials,Machinery,US,"" 29,221.68 "",-9.7,15.9,25.58,"" 7,822.0 "","" 8,362.0 "","" 9,677.0 "","" 10,387.0 "",1689,2034,2284,2314"
+"STLD US Equity,STEEL DYNAMICS INC,BBB,Materials,Metals & Mining,US,"" 17,731.29 "",4.1,8.2,34.38,"" 18,408.9 "","" 22,260.8 "","" 18,795.3 "","" 17,540.4 "",3531.13,3129.964,2894.632,3113.733"
+"VLO US Equity,VALERO ENERGY CORP,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 34,609.54 "",-9.5,7.3,35.20,"" 113,977.0 "","" 176,383.0 "","" 144,766.0 "","" 129,881.0 "",6265,6752,7583,7761"
+"PPL CN Equity,PEMBINA PIPELINE CORP,BBB,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 30,516.40 "",0.2,14.5,16.84,"" 8,781.0 "","" 12,000.0 "","" 6,647.0 "","" 7,712.0 "",376,269,333,301"
+"FE US Equity,FIRSTENERGY CORP,BBB,Utilities,Electric Utilities,US,"" 24,250.84 "",6.7,12.2,20.36,"" 11,132.0 "","" 12,459.0 "","" 12,870.0 "","" 13,472.0 "",260,421,512,549"
+"INGR US Equity,INGREDION INC,BBB,Consumer Staples,Food Products,US,"" 8,341.60 "",-4.6,9.0,22.67,"" 6,894.0 "","" 7,946.0 "","" 8,160.0 "","" 7,430.0 "",1172,1597,1450,1187"
+"PAA US Equity,PLAINS ALL AMER PIPELINE LP,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 12,484.99 "",5.9,10.0,25.69,"" 42,078.0 "","" 57,342.0 "","" 48,712.0 "","" 50,073.0 "",783,729,548,439"
+"SRE US Equity,SEMPRA,BBB+,Utilities,Multi-Utilities,US,"" 46,364.08 "",-18.2,18.5,29.07,"" 12,857.0 "","" 14,439.0 "","" 16,720.0 "","" 13,185.0 "",389,403,482,559"
+"DVN US Equity,DEVON ENERGY CORP,BBB,Energy,""Oil, Gas & Consumable Fuels"",US,"" 19,671.19 "",-6.8,4.0,35.34,"" 12,206.0 "","" 19,169.0 "","" 15,258.0 "","" 15,940.0 "",0,201,249,294"
+"DTE US Equity,DTE ENERGY COMPANY,BBB+,Utilities,Multi-Utilities,US,"" 27,714.00 "",11.5,12.4,19.59,"" 14,964.0 "","" 19,228.0 "","" 12,745.0 "","" 12,457.0 "",858,942,1054,1245"
+"TDY US Equity,TELEDYNE TECHNOLOGIES INC,BBB,Information Technology,""Electronic Equipment, Instrume"",US,"" 21,647.73 "",-0.4,18.6,24.56,"" 4,614.3 "","" 5,458.6 "","" 5,635.5 "","" 5,670.0 "",752.9,890.7,917.7,914.4"
+"MDLZ US Equity,MONDELEZ INTERNATIONAL INC-A,BBB,Consumer Staples,Food Products,US,"" 87,215.42 "",13.5,12.6,19.49,"" 28,720.0 "","" 31,496.0 "","" 36,016.0 "","" 36,441.0 "",2708,3381,3615,3827"
+"ZBH US Equity,ZIMMER BIOMET HOLDINGS INC,BBB,Health Care,Health Care Equipment & Suppli,US,"" 19,372.62 "",-7.1,11.8,22.28,"" 6,827.3 "","" 6,939.9 "","" 7,394.2 "","" 7,678.6 "",2148,2147.2,2385.2,2235.3"
+"CRH US Equity,CRH PLC,BBB+,Materials,Construction Materials,US,"" 57,336.73 "",-8.0,11.2,31.22,"" 29,206.0 "","" 32,723.0 "","" 34,949.0 "","" 35,572.0 "",3611,4194,4291,4755"
+"PSX US Equity,PHILLIPS 66,BBB+,Energy,""Oil, Gas & Consumable Fuels"",US,"" 40,377.03 "",-12.2,16.1,32.04,"" 111,476.0 "","" 169,990.0 "","" 147,399.0 "","" 143,153.0 "",3394,3276,3750,3995"
+"DD US Equity,DUPONT DE NEMOURS INC,BBB+,Materials,Chemicals,US,"" 25,168.50 "",-20.7,13.1,31.96,"" 12,566.0 "","" 13,017.0 "","" 12,068.0 "","" 12,386.0 "",2862,2329,2147,2130"
+"CI US Equity,THE CIGNA GROUP,A-,Health Care,Health Care Providers & Servic,US,"" 89,500.92 "",20.1,8.2,28.91,"" 174,078.0 "","" 180,516.0 "","" 195,265.0 "","" 247,121.0 "",3722,4777,5645,6692"
+"CARR US Equity,CARRIER GLOBAL CORP,BBB+,Industrials,Building Products,US,"" 51,752.86 "",-12.2,10.3,31.11,"" 20,613.0 "","" 20,421.0 "","" 18,951.0 "","" 22,486.0 "",1970,2640,1823,2299"
+"BG US Equity,BUNGE GLOBAL SA,BBB+,Consumer Staples,Food Products,US,"" 10,578.12 "",2.5,7.1,26.46,"" 59,152.0 "","" 67,232.0 "","" 59,540.0 "","" 53,108.0 "",8431,8408,7105,6491"
+"VZ US Equity,VERIZON COMMUNICATIONS INC,BBB+,Communication Services,Diversified Telecommunication,US,"" 188,931.60 "",13.9,7.2,22.47,"" 133,613.0 "","" 136,835.0 "","" 133,974.0 "","" 134,788.0 "",3055,2388,2057,2247"
+"BBY US Equity,BEST BUY CO INC,BBB+,Consumer Discretionary,Specialty Retail,US,"" 13,098.58 "",-26.9,9.7,40.54,"" 47,262.0 "","" 51,761.0 "","" 46,298.0 "","" 43,452.0 "",5612,5965,5140,4958"
+"CDNS US Equity,CADENCE DESIGN SYS INC,BBB+,Information Technology,Software,US,"" 71,381.88 "",-13.4,53.2,37.63,"" 2,988.2 "","" 3,561.7 "","" 4,090.0 "","" 4,641.3 "",115.721,128.005,181.661,257.711"
+"ED US Equity,CONSOLIDATED EDISON INC,A-,Utilities,Multi-Utilities,US,"" 40,378.45 "",26.8,11.7,18.86,"" 13,676.0 "","" 15,670.0 "","" 14,663.0 "","" 15,256.0 "",437,492,469,485"
+"CSX US Equity,CSX CORP,BBB+,Industrials,Ground Transportation,US,"" 51,998.15 "",-13.9,11.1,23.03,"" 12,522.0 "","" 14,853.0 "","" 14,657.0 "","" 14,540.0 "",339,341,440,414"
+"D US Equity,DOMINION ENERGY INC,BBB+,Utilities,Multi-Utilities,US,"" 45,312.28 "",-0.1,15.4,24.86,"" 13,964.0 "","" 13,938.0 "","" 14,393.0 "","" 14,459.0 "",1631,1528,1698,1764"
+"NEE US Equity,NEXTERA ENERGY INC,A-,Utilities,Electric Utilities,US,"" 136,504.49 "",-6.8,18.1,27.95,"" 17,069.0 "","" 20,956.0 "","" 28,114.0 "","" 24,753.0 "",1561,1934,2106,2214"
+"HUBB US Equity,HUBBELL INC,BBB+,Industrials,Electrical Equipment,US,"" 18,159.76 "",-18.8,18.3,32.05,"" 4,194.1 "","" 4,947.9 "","" 5,372.9 "","" 5,628.5 "",662.1,740.7,832.9,841.8"
+"MMM US Equity,3M CO,BBB+,Industrials,Industrial Conglomerates,US,"" 70,224.64 "",1.4,11.6,32.80,"" 35,355.0 "","" 34,229.0 "","" 32,681.0 "","" 24,575.0 "",4985,5372,4822,3698"
+"NEM US Equity,NEWMONT CORP,BBB+,Materials,Metals & Mining,US,"" 62,089.34 "",48.9,6.7,38.12,"" 12,222.0 "","" 11,915.0 "","" 11,812.0 "","" 18,682.0 "",1787,1753,2642,2184"
+"NSC US Equity,NORFOLK SOUTHERN CORP,BBB+,Industrials,Ground Transportation,US,"" 49,736.01 "",-5.8,12.7,27.94,"" 11,142.0 "","" 12,745.0 "","" 12,156.0 "","" 12,123.0 "",218,253,264,277"
+"NOC US Equity,NORTHROP GRUMMAN CORP,BBB+,Industrials,Aerospace & Defense,US,"" 77,891.11 "",15.7,14.3,20.93,"" 35,667.0 "","" 36,602.0 "","" 39,290.0 "","" 41,033.0 "",811,978,1109,1455"
+"OGE US Equity,OGE ENERGY CORP,BBB+,Utilities,Electric Utilities,US,"" 9,079.93 "",11.6,10.8,18.96,"" 3,653.7 "","" 3,375.7 "","" 2,674.3 "","" 2,985.3 "",158.5,289.3,412.8,377.7"
+"PH US Equity,PARKER HANNIFIN CORP,BBB+,Industrials,Machinery,US,"" 72,237.08 "",-11.6,18.7,31.11,"" 14,347.6 "","" 15,861.6 "","" 19,065.2 "","" 19,929.6 "",2090.642,2214.553,2907.879,2786.8"
+"PPL US Equity,PPL CORP,A-,Utilities,Electric Utilities,US,"" 26,398.92 "",10.9,13.1,17.81,"" 5,783.0 "","" 7,902.0 "","" 8,312.0 "","" 8,462.0 "",322,443,505,511"
+"EXC US Equity,EXELON CORP,A-,Utilities,Electric Utilities,US,"" 47,710.65 "",26.7,10.6,21.36,"" 17,938.0 "","" 19,078.0 "","" 21,727.0 "","" 23,028.0 "",581,755,801,853"
+"PPG US Equity,PPG INDUSTRIES INC,BBB+,Materials,Chemicals,US,"" 22,708.84 "",-15.7,11.5,24.16,"" 16,802.0 "","" 17,652.0 "","" 16,242.0 "","" 15,845.0 "",2171,2272,1934,1846"
+"SO US Equity,SOUTHERN CO/THE,A-,Utilities,Electric Utilities,US,"" 101,008.78 "",12.5,12.8,18.52,"" 23,113.0 "","" 29,279.0 "","" 25,253.0 "","" 26,724.0 "",2355,2677,3352,3369"
+"SWK US Equity,STANLEY BLACK & DECKER INC,A-,Industrials,Machinery,US,"" 8,841.09 "",-28.0,16.3,38.30,"" 15,281.3 "","" 16,947.4 "","" 15,781.1 "","" 15,365.7 "",5446.8,5861.1,4738.6,4536.4"
+"RTX US Equity,RTX CORP,BBB+,Industrials,Aerospace & Defense,US,"" 172,079.74 "",12.0,17.8,21.53,"" 64,388.0 "","" 67,074.0 "","" 68,920.0 "","" 80,738.0 "",9178,10617,11777,12768"
+"WEC US Equity,WEC ENERGY GROUP INC,A-,Utilities,Multi-Utilities,US,"" 34,586.08 "",16.3,14.4,18.74,"" 8,316.0 "","" 9,597.4 "","" 8,893.0 "","" 8,599.9 "",635.8,807.1,775.2,813.2"
+"SYK US Equity,STRYKER CORP,BBB+,Health Care,Health Care Equipment & Suppli,US,"" 132,255.18 "",-3.5,29.2,21.30,"" 17,108.0 "","" 18,449.0 "","" 20,498.0 "","" 22,595.0 "",3314,3995,4843,4774"
+"DHI US Equity,DR HORTON INC,BBB+,Consumer Discretionary,Household Durables,US,"" 38,208.60 "",-13.0,8.1,34.00,"" 27,774.2 "","" 33,480.0 "","" 35,460.4 "","" 36,801.4 "",16479.1,21655.7,22373.3,24903.2"
+"MHK US Equity,MOHAWK INDUSTRIES INC,BBB+,Consumer Discretionary,Household Durables,US,"" 6,419.73 "",-13.8,7.1,40.21,"" 11,200.6 "","" 11,737.1 "","" 11,135.1 "","" 10,836.9 "",2391.672,2793.765,2551.853,2513.6"
+"NVR US Equity,NVR INC,BBB+,Consumer Discretionary,Household Durables,US,"" 21,347.35 "",-12.1,10.6,25.61,"" 8,951.0 "","" 10,526.4 "","" 9,518.2 "","" 10,524.5 "",1947.366,1788.275,1950.15,2058.707"
+"REGN US Equity,REGENERON PHARMACEUTICALS,BBB+,Health Care,Biotechnology,US,"" 61,254.16 "",-20.8,14.1,25.65,"" 16,071.7 "","" 12,172.9 "","" 13,117.2 "","" 14,202.0 "",1951.3,2401.9,2580.5,3087.3"
+"GIB/A CN Equity,CGI INC,BBB+,Information Technology,IT Services,CA,"" 33,099.15 "",-7.2,12.8,20.20,"" 12,126.8 "","" 12,867.2 "","" 14,296.4 "","" 14,676.2 "",1045.058,1191.844,1143.685,1208.095"
+"FTT CN Equity,FINNING INTERNATIONAL INC,BBB+,Industrials,Trading Companies & Distributo,CA,"" 5,148.17 "",0.9,6.1,32.46,"" 7,294.0 "","" 9,279.0 "","" 10,527.0 "","" 11,206.0 "",1687,2461,2844,2646"
+"FTS CN Equity,FORTIS INC,A-,Utilities,Electric Utilities,CA,"" 33,307.97 "",12.8,13.0,14.46,"" 9,448.0 "","" 11,043.0 "","" 11,517.0 "","" 11,508.0 "",478,661,566,685"
+"ENB CN Equity,ENBRIDGE INC,BBB+,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 136,893.97 "",4.6,16.4,15.52,"" 47,071.0 "","" 53,309.0 "","" 43,649.0 "","" 53,473.0 "",1670,2255,1479,1488"
+"L CN Equity,LOBLAW COMPANIES LTD,BBB+,Consumer Staples,Consumer Staples Distribution,CA,"" 64,188.33 "",13.3,10.9,18.07,"" 53,170.0 "","" 56,504.0 "","" 59,529.0 "","" 61,014.0 "",5166,5855,5820,6330"
+"RS US Equity,RELIANCE INC,BBB+,Materials,Metals & Mining,US,"" 14,683.04 "",3.5,10.1,28.19,"" 14,093.3 "","" 17,025.0 "","" 14,805.9 "","" 13,835.0 "",2065,1995.3,2043.2,2026.8"
+"SCCO US Equity,SOUTHERN COPPER CORP,BBB+,Materials,Metals & Mining,MX,"" 68,678.74 "",-3.9,11.5,39.89,"" 10,934.1 "","" 10,047.9 "","" 9,895.8 "","" 11,433.4 "",972.9,1013.9,1016.9,1048.9"
+"MCK US Equity,MCKESSON CORP,BBB+,Health Care,Health Care Providers & Servic,US,"" 87,362.51 "",22.4,17.2,25.57,"" 238,228.0 "","" 263,966.0 "","" 276,711.0 "","" 308,951.0 "",19246,18702,19691,21139"
+"COR US Equity,CENCORA INC,BBB+,Health Care,Health Care Providers & Servic,US,"" 55,545.15 "",27.9,15.3,18.41,"" 213,988.8 "","" 238,587.0 "","" 262,173.4 "","" 293,958.6 "",15368.352,15556.394,17454.768,18998.833"
+"AME US Equity,AMETEK INC,BBB+,Industrials,Electrical Equipment,US,"" 36,414.17 "",-12.3,19.4,23.02,"" 5,546.5 "","" 6,150.5 "","" 6,597.0 "","" 6,941.2 "",769.175,1044.284,1132.471,1021.713"
+"AEE US Equity,AMEREN CORPORATION,BBB+,Utilities,Multi-Utilities,US,"" 26,651.05 "",11.5,13.4,20.52,"" 6,394.0 "","" 7,957.0 "","" 7,500.0 "","" 7,623.0 "",592,667,733,762"
+"A US Equity,AGILENT TECHNOLOGIES INC,BBB+,Health Care,Life Sciences Tools & Services,US,"" 29,217.33 "",-23.6,25.8,29.52,"" 6,319.0 "","" 6,848.0 "","" 6,833.0 "","" 6,510.0 "",830,1038,1031,972"
+"XEL US Equity,XCEL ENERGY INC,BBB+,Utilities,Electric Utilities,US,"" 40,395.62 "",5.6,12.4,22.33,"" 13,431.0 "","" 15,310.0 "","" 14,206.0 "","" 13,441.0 "",631,803,711,666"
+"PM US Equity,PHILIP MORRIS INTERNATIONAL,A-,Consumer Staples,Tobacco,US,"" 254,034.44 "",36.8,14.9,22.71,"" 31,405.0 "","" 31,762.0 "","" 35,174.0 "","" 37,878.0 "",8720,9886,10774,9453"
+"ABBV US Equity,ABBVIE INC,A-,Health Care,Biotechnology,US,"" 306,015.55 "",-0.8,21.5,25.20,"" 56,197.0 "","" 58,054.0 "","" 54,318.0 "","" 56,334.0 "",3128,3579,4099,4181"
+"CTVA US Equity,CORTEVA INC,A-,Materials,Chemicals,US,"" 40,803.29 "",5.2,14.4,29.64,"" 15,655.0 "","" 17,455.0 "","" 17,226.0 "","" 16,908.0 "",5180,6811,6899,5432"
+"ADI US Equity,ANALOG DEVICES INC,A-,Information Technology,Semiconductors & Semiconductor,US,"" 87,425.77 "",-16.7,27.3,38.12,"" 7,318.3 "","" 12,014.0 "","" 12,305.5 "","" 9,427.2 "",1200.61,1399.914,1642.214,1447.687"
+"BSX US Equity,BOSTON SCIENTIFIC CORP,A-,Health Care,Health Care Equipment & Suppli,US,"" 140,689.16 "",6.5,36.9,21.19,"" 11,888.0 "","" 12,682.0 "","" 14,240.0 "","" 16,747.0 "",1610,1867,2485,2810"
+"DIS US Equity,WALT DISNEY CO/THE,A,Communication Services,Entertainment,US,"" 153,318.57 "",-23.8,17.6,29.16,"" 67,418.0 "","" 82,722.0 "","" 88,898.0 "","" 91,361.0 "",1331,1742,1963,2022"
+"ECL US Equity,ECOLAB INC,A-,Materials,Chemicals,US,"" 67,711.60 "",2.1,19.7,20.09,"" 12,733.1 "","" 14,187.8 "","" 15,320.2 "","" 15,741.4 "",1491.8,1792.8,1497.2,1464.9"
+"GE US Equity,GENERAL ELECTRIC,A-,Industrials,Aerospace & Defense,US,"" 193,893.35 "",9.2,28.7,32.73,"" 74,196.0 "","" 76,555.0 "","" 35,348.0 "","" 38,702.0 "",15847,17403,8284,9763"
+"IBM US Equity,INTL BUSINESS MACHINES CORP,A-,Information Technology,IT Services,US,"" 221,440.00 "",9.4,19.0,26.44,"" 57,351.0 "","" 60,530.0 "","" 61,860.0 "","" 62,753.0 "",1650,1552,1161,1289"
+"NUE US Equity,NUCOR CORP,A-,Materials,Metals & Mining,US,"" 25,497.45 "",-4.9,7.5,35.94,"" 36,483.9 "","" 41,512.5 "","" 34,713.5 "","" 30,734.0 "",6011.182,5453.531,5577.758,5106"
+"COP US Equity,CONOCOPHILLIPS,A-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 112,485.43 "",-9.5,#N/A N/A,29.37,"" 45,828.0 "","" 78,494.0 "","" 56,141.0 "","" 54,745.0 "",1208,1219,1398,1809"
+"SNA US Equity,SNAP-ON INC,A-,Industrials,Machinery,US,"" 15,971.77 "",-9.5,12.1,25.29,"" 4,601.7 "","" 4,842.5 "","" 5,108.3 "","" 5,108.4 "",803.8,1033.1,1005.9,943.4"
+"TMO US Equity,THERMO FISHER SCIENTIFIC INC,A-,Health Care,Life Sciences Tools & Services,US,"" 161,377.95 "",-17.8,21.6,24.42,"" 39,211.0 "","" 44,915.0 "","" 42,857.0 "","" 42,879.0 "",5051,5634,5088,4978"
+"UNP US Equity,UNION PACIFIC CORP,A-,Industrials,Ground Transportation,US,"" 132,005.82 "",-2.9,14.0,21.59,"" 21,804.0 "","" 24,875.0 "","" 24,119.0 "","" 24,250.0 "",621,741,743,769"
+"KLAC US Equity,KLA CORP,A-,Information Technology,Semiconductors & Semiconductor,US,"" 84,307.34 "",0.9,20.0,45.52,"" 6,918.7 "","" 9,211.9 "","" 10,496.1 "","" 9,812.2 "",1575.38,2146.889,2876.784,3034.781"
+"MG CN Equity,MAGNA INTERNATIONAL INC,A-,Consumer Discretionary,Automobile Components,CA,"" 12,566.13 "",-24.8,4.5,31.53,"" 36,242.0 "","" 37,840.0 "","" 42,797.0 "","" 42,836.0 "",3969,4180,4606,4151"
+"LMT US Equity,LOCKHEED MARTIN CORP,A-,Industrials,Aerospace & Defense,US,"" 108,860.66 "",-3.8,15.5,21.01,"" 67,044.0 "","" 65,984.0 "","" 67,571.0 "","" 71,043.0 "",2981,3088,3132,3474"
+"EL US Equity,ESTEE LAUDER COMPANIES-CL A,A-,Consumer Staples,Personal Care Products,US,"" 19,593.70 "",-27.0,78.7,50.39,"" 16,215.0 "","" 17,737.0 "","" 15,910.0 "","" 15,608.0 "",2505,2920,2979,2175"
+"CNR CN Equity,CANADIAN NATL RAILWAY CO,A-,Industrials,Ground Transportation,CA,"" 86,286.20 "",-5.3,13.8,19.72,"" 14,477.0 "","" 17,107.0 "","" 16,828.0 "","" 17,046.0 "",589,692,699,720"
+"ROK US Equity,ROCKWELL AUTOMATION INC,A-,Industrials,Electrical Equipment,US,"" 26,265.72 "",-18.4,24.4,35.73,"" 6,997.4 "","" 7,760.4 "","" 9,058.0 "","" 8,264.2 "",798.1,1054.2,1404.9,1293.1"
+"APH US Equity,AMPHENOL CORP-CL A,A-,Information Technology,""Electronic Equipment, Instrume"",US,"" 78,838.62 "",-6.1,23.6,32.51,"" 10,876.3 "","" 12,623.0 "","" 12,554.7 "","" 15,222.7 "",1894.1,2093.6,2167.1,2545.7"
+"BN CN Equity,BROOKFIELD CORP,A-,Financials,Capital Markets,CA,"" 113,315.07 "",-16.6,15.7,30.59,"" 75,731.0 "","" 92,769.0 "","" 95,924.0 "","" 86,006.0 "",11415,12843,11412,8458"
+"KVUE US Equity,KENVUE INC,A,Consumer Staples,Personal Care Products,US,"" 44,878.19 "",10.6,19.8,26.26,"" 15,054.0 "","" 14,950.0 "","" 15,444.0 "","" 15,455.0 "",1702,2226,1851,1591"
+"LIN US Equity,LINDE PLC,A,Materials,Chemicals,US,"" 213,812.80 "",8.3,17.8,18.33,"" 30,793.0 "","" 33,364.0 "","" 32,854.0 "","" 33,005.0 "",1733,1978,2115,1946"
+"APD US Equity,AIR PRODUCTS & CHEMICALS INC,A,Materials,Chemicals,US,"" 58,488.85 "",-8.2,13.5,29.35,"" 10,323.0 "","" 12,698.6 "","" 12,600.0 "","" 12,100.6 "",453.9,514.2,651.8,766"
+"HON US Equity,HONEYWELL INTERNATIONAL INC,A,Industrials,Industrial Conglomerates,US,"" 126,464.32 "",-12.5,19.2,21.66,"" 34,392.0 "","" 35,466.0 "","" 36,662.0 "","" 38,498.0 "",5138,5538,6178,6442"
+"ADM US Equity,ARCHER-DANIELS-MIDLAND CO,A,Consumer Staples,Food Products,US,"" 22,961.04 "",-4.3,13.2,35.56,"" 85,249.0 "","" 101,556.0 "","" 93,935.0 "","" 85,530.0 "",14481,14771,11957,11572"
+"CAT US Equity,CATERPILLAR INC,A,Industrials,Machinery,US,"" 140,631.50 "",-18.2,11.5,29.31,"" 50,971.0 "","" 59,427.0 "","" 67,060.0 "","" 64,809.0 "",14038,16270,16565,16827"
+"TGT US Equity,TARGET CORP,A,Consumer Staples,Consumer Staples Distribution,US,"" 42,418.72 "",-30.5,8.5,41.11,"" 93,561.0 "","" 106,005.0 "","" 109,120.0 "","" 107,412.0 "",10653,13902,13499,11886"
+"DE US Equity,DEERE & CO,A,Industrials,Machinery,US,"" 122,698.09 "",7.1,10.0,26.90,"" 44,024.0 "","" 52,577.0 "","" 61,251.0 "","" 51,716.0 "",6781,8495,8160,7093"
+"EMR US Equity,EMERSON ELECTRIC CO,A,Industrials,Electrical Equipment,US,"" 56,147.52 "",-19.3,18.0,29.40,"" 12,932.0 "","" 13,804.0 "","" 15,165.0 "","" 17,492.0 "",2050,1742,2006,2180"
+"HSY US Equity,HERSHEY CO/THE,A,Consumer Staples,Food Products,US,"" 33,744.97 "",-0.8,11.4,25.92,"" 8,971.3 "","" 10,419.3 "","" 11,165.0 "","" 11,202.3 "",988.511,1173.119,1340.996,1254.094"
+"HD US Equity,HOME DEPOT INC,A,Consumer Discretionary,Specialty Retail,US,"" 352,904.13 "",-8.1,18.6,22.66,"" 132,110.0 "","" 151,157.0 "","" 157,403.0 "","" 152,669.0 "",16627,22068,24886,20976"
+"PFE US Equity,PFIZER INC,A,Health Care,Pharmaceuticals,US,"" 125,566.01 "",-15.2,10.2,25.05,"" 81,288.0 "","" 100,330.0 "","" 59,554.0 "","" 63,627.0 "",9059,8981,10190,10851"
+"SLB US Equity,SCHLUMBERGER LTD,A,Energy,Energy Equipment & Services,US,"" 47,744.52 "",-7.8,7.6,33.08,"" 22,929.0 "","" 28,091.0 "","" 33,135.0 "","" 36,289.0 "",3272,3999,4387,4375"
+"QCOM US Equity,QUALCOMM INC,A,Information Technology,Semiconductors & Semiconductor,US,"" 151,145.96 "",-10.6,14.0,40.02,"" 33,566.0 "","" 44,200.0 "","" 35,820.0 "","" 38,962.0 "",3228,6341,6422,6423"
+"LLY US Equity,ELI LILLY & CO,A+,Health Care,Pharmaceuticals,US,"" 796,272.97 "",9.0,52.0,33.34,"" 28,318.4 "","" 28,541.4 "","" 34,124.1 "","" 45,042.7 "",3886,4309.7,5772.8,7589.2"
+"PCAR US Equity,PACCAR INC,A+,Industrials,Machinery,US,"" 46,283.50 "",-15.0,8.5,28.05,"" 23,522.3 "","" 28,819.7 "","" 35,127.4 "","" 33,663.8 "",1976,2198.8,2576.7,2367.1"
+"CVX US Equity,CHEVRON CORP,AA-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 240,820.18 "",-3.8,7.7,23.35,"" 155,606.0 "","" 235,717.0 "","" 196,913.0 "","" 193,414.0 "",6795,8247,8612,9074"
+"XOM US Equity,EXXON MOBIL CORP,AA-,Energy,""Oil, Gas & Consumable Fuels"",US,"" 462,460.40 "",0.3,7.8,22.55,"" 276,692.0 "","" 398,675.0 "","" 334,697.0 "","" 339,247.0 "",18780,24435,25120,23524"
+"PG US Equity,PROCTER & GAMBLE CO/THE,AA-,Consumer Staples,Household Products,US,"" 400,102.07 "",3.0,18.4,17.63,"" 76,118.0 "","" 80,187.0 "","" 82,006.0 "","" 84,039.0 "",5983,6924,7073,7016"
+"IMO CN Equity,IMPERIAL OIL LTD,AA-,Energy,""Oil, Gas & Consumable Fuels"",CA,"" 44,984.30 "",0.5,5.9,29.75,"" 35,580.0 "","" 57,234.0 "","" 48,300.0 "","" 48,824.0 "",1791,2268,2952,2617"
+"AMZN US Equity,AMAZON.COM INC,AA,Consumer Discretionary,Broadline Retail,US,"" 1,831,800.15 "",-21.3,17.8,31.16,"" 469,822.0 "","" 513,983.0 "","" 574,785.0 "","" 637,959.0 "",32640,34405,33318,34214"
+"BRK/A US Equity,BERKSHIRE HATHAWAY INC-CL A,AA,Financials,Financial Services,US,"" 1,118,779.77 "",14.4,3.6,17.37,"" 354,745.0 "","" 234,121.0 "","" 439,337.0 "","" 424,232.0 "",20954,25366,24159,24008"
+"WMT US Equity,WALMART INC,AA,Consumer Staples,Consumer Staples Distribution,US,"" 747,330.71 "",3.5,20.0,23.41,"" 559,151.0 "","" 572,754.0 "","" 611,289.0 "","" 648,125.0 "",44949,56511,56576,54892"
+"JNJ US Equity,JOHNSON & JOHNSON,AAA,Health Care,Pharmaceuticals,US,"" 379,478.72 "",9.8,12.8,17.96,"" 93,775.0 "","" 79,990.0 "","" 85,159.0 "","" 88,821.0 "",10387,10268,11181,12444"
+"MSFT US Equity,MICROSOFT CORP,AAA,Information Technology,Software,US,"" 2,734,069.99 "",-12.6,21.3,23.16,"" 168,088.0 "","" 198,270.0 "","" 211,915.0 "","" 245,122.0 "",2636,3742,2500,1246"
